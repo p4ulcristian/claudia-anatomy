@@ -20,7 +20,9 @@ for (const line of fs.readFileSync(ta2File, "utf8").replace(/^﻿/, "").split(/\
 const index = raw.map((e) => {
   // Z-Anatomy brackets the parts of a bigger structure, "(Adductor minimus)": the name without them.
   const base = e.base.trim().replace(/^\(([^()]*)\)$/, "$1").trim();
-  const latin = latinOf.get(base.toLowerCase()) ?? latinOf.get(base.replace(/ muscle$/i, "").toLowerCase()) ?? null;
+  // TA2 has some terms with their brackets: the name as Z-Anatomy wrote it is tried first.
+  const latin = [e.base.trim(), base, base.replace(/ muscle$/i, "")]
+    .map((n) => latinOf.get(n.toLowerCase())).find(Boolean) ?? null;
   return { id: e.id, name: base, latin, side: e.side, system: e.system, tags: e.tags,
            ...(e.shape ? { shape: e.shape } : {}),
            ...(e.kind ? { kind: e.kind, n: e.n } : {}), file: e.file, centre: e.centre, size: e.size };
