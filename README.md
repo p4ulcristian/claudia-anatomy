@@ -16,6 +16,11 @@ Human anatomy as one small 3D file per structure, with a name index, for the 3D 
 - `models/<system>/<id>.glb`: one mesh per other structure, in body coordinates: metres, Y up, facing
   +Z, the body's right at -X, so files loaded together form one body. Positions are quantized and
   meshopt-compressed (three.js: `GLTFLoader` with `MeshoptDecoder`); normals are not stored.
+- `models/apple/<system>/<id>.avz`: the same structures for Apple devices (Atlas Vivus), readable
+  with only Apple's Compression framework: `"AVZ1"`, the inflated size (u32), then raw DEFLATE of
+  `"AVM1"`, vertex and triangle counts, flags (bit 0: 32-bit indices), the box (min, max, f32),
+  u16 positions quantized in the box, u16 or u32 indices. Nerves and vessels are tubes here
+  (radius 2.5 / 3 mm). Format details in `tools/apple.mjs`.
 - `tools/`: how the files are made from Z-Anatomy's Blender file (below).
 
 Releases are git tags (`v1.0.0`, …); Claudia pins one and fetches files from it.
@@ -31,6 +36,7 @@ node tools/merge.mjs raw
 # 2. compress to GLB, 3. build the index with Latin names from Z-Anatomy's TA2 table
 node tools/compress.mjs raw models
 node tools/index.mjs raw TA2.csv models
+node tools/apple.mjs raw models          # 4. the Apple copies
 ```
 
 ## Licence and attribution
