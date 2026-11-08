@@ -1,0 +1,7 @@
+The 3D models in models/ (the .glb files and index.json) are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+They are adapted from Z-Anatomy (https://github.com/Z-Anatomy/Models-of-human-anatomy,
+CC BY-SA 4.0), whose models derive from BodyParts3D, © The Database Center for Life Science,
+licensed under CC Attribution-Share Alike 2.1 Japan. See README.md for the changes made.

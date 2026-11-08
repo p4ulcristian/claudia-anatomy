@@ -1,0 +1,17 @@
+{
+  "name": "claudia-anatomy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Human anatomy as one small GLB per structure, with a name index, for Claudia's 3D scenes. Models from Z-Anatomy (CC BY-SA 4.0).",
+  "type": "module",
+  "scripts": {
+    "compress": "node tools/compress.mjs",
+    "index": "node tools/index.mjs"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "4.5.1",
+    "@gltf-transform/extensions": "4.5.1",
+    "@gltf-transform/functions": "4.5.1",
+    "meshoptimizer": "1.3.0"
+  }
+}
