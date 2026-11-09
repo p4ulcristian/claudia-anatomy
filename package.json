@@ -7,6 +7,7 @@
   "scripts": {
     "compress": "node tools/compress.mjs",
     "index": "node tools/index.mjs",
+    "latin": "node tools/latin.mjs",
     "names": "node tools/names.mjs"
   },
   "devDependencies": {
