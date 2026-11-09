@@ -1,0 +1,11177 @@
+{
+ "source": "Wikidata (https://www.wikidata.org), CC0; labels in hu and de, matched by tools/names.mjs",
+ "retrieved": "2026-11-09",
+ "names": {
+  "Abdominal aorta": {
+   "wikidata": "Q2264329",
+   "hu": null,
+   "de": "Bauchaorta",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Abdominal part of pectoralis major muscle": {
+   "wikidata": "Q115088071",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Abductor digiti minimi of foot": {
+   "wikidata": "Q1089155",
+   "hu": null,
+   "de": "Musculus abductor digiti minimi",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Abductor digiti minimi of hand": {
+   "wikidata": "Q659744",
+   "hu": "kisujjtávolító izom",
+   "de": "Musculus abductor digiti minimi",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Abductor hallucis": {
+   "wikidata": "Q1475923",
+   "hu": null,
+   "de": "Musculus abductor hallucis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Abductor pollicis brevis": {
+   "wikidata": "Q337824",
+   "hu": "rövid hüvelykujj-távolító izom",
+   "de": "Musculus abductor pollicis brevis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Abductor pollicis longus": {
+   "wikidata": "Q915948",
+   "hu": "hosszú hüvelykujj-távolító izom",
+   "de": "Musculus abductor pollicis longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Accessory branch of middle meningeal artery": {
+   "wikidata": "Q50194",
+   "hu": null,
+   "de": "Arteria meningea accessoria",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Accessory hemi-azygos vein": {
+   "wikidata": "Q4672537",
+   "hu": null,
+   "de": "Vena hemiazygos accessoria",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Acetabular labrum": {
+   "wikidata": "Q3042621",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Acromial part of deltoid muscle": {
+   "wikidata": "Q66524647",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Acromioclavicular ligament": {
+   "wikidata": "Q4676185",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Adductor brevis": {
+   "wikidata": "Q1551135",
+   "hu": null,
+   "de": "Musculus adductor brevis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Adductor longus": {
+   "wikidata": "Q1428231",
+   "hu": null,
+   "de": "Musculus adductor longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Adductor magnus": {
+   "wikidata": "Q478040",
+   "hu": null,
+   "de": "Musculus adductor magnus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Adductor minimus": {
+   "wikidata": "Q4681420",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Adductor pollicis": {
+   "wikidata": "Q1065866",
+   "hu": "hüvelykujj-közelítő izom",
+   "de": "Musculus adductor pollicis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Amygdaloid body": {
+   "wikidata": "Q338924",
+   "hu": "amigdala",
+   "de": "Amygdala",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anconeus muscle": {
+   "wikidata": "Q526403",
+   "hu": "könyökizom",
+   "de": "Musculus anconeus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Angular artery": {
+   "wikidata": "Q489189",
+   "hu": null,
+   "de": "Arteria angularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Angular gyrus": {
+   "wikidata": "Q1038781",
+   "hu": "anguláris gyrus",
+   "de": "Gyrus angularis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Angular vein": {
+   "wikidata": "Q1631914",
+   "hu": null,
+   "de": "Vena angularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Annular ligament of radius": {
+   "wikidata": "Q4777779",
+   "hu": null,
+   "de": "Ligamentum anulare radii",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anserine bursa": {
+   "wikidata": "Q21081325",
+   "hu": null,
+   "de": "Bursa anserina",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Antebrachial fascia": {
+   "wikidata": "Q3329079",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior basal segmental artery of left lung": {
+   "wikidata": "Q66504108",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior basal segmental artery of right lung": {
+   "wikidata": "Q66504093",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior belly of digastric muscle": {
+   "wikidata": "Q66536458",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior branch of medial antebrachial cutaneous nerve": {
+   "wikidata": "Q114857320",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior branch of obturator nerve": {
+   "wikidata": "Q4771326",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior branch of renal artery": {
+   "wikidata": "Q66568449",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior cells of ethmoid bone": {
+   "wikidata": "Q66589297",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior cerebral artery": {
+   "wikidata": "Q498935",
+   "hu": null,
+   "de": "Arteria cerebri anterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior chamber of eyeball": {
+   "wikidata": "Q5911033",
+   "hu": "elülső szemcsarnok",
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior circumflex humeral artery": {
+   "wikidata": "Q707098",
+   "hu": null,
+   "de": "Arteria circumflexa humeri anterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior circumflex humeral vein": {
+   "wikidata": "Q66575137",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior commissure": {
+   "wikidata": "Q203800",
+   "hu": null,
+   "de": "Commissura anterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior corticospinal tract": {
+   "wikidata": "Q4771341",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior cruciate ligament": {
+   "wikidata": "Q611127",
+   "hu": null,
+   "de": "vorderes Kreuzband",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior cutaneous branches of femoral nerve": {
+   "wikidata": "Q4771342",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin"
+   ]
+  },
+  "Anterior deep temporal artery": {
+   "wikidata": "Q38221606",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior division of inferior trunk of brachial plexus": {
+   "wikidata": "Q66561667",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior division of internal iliac artery": {
+   "wikidata": "Q134571637",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior division of middle trunk of brachial plexus": {
+   "wikidata": "Q66561666",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior division of retromandibular vein": {
+   "wikidata": "Q136718141",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior division of superior trunk of brachial plexus": {
+   "wikidata": "Q66561665",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior ethmoidal artery": {
+   "wikidata": "Q3270899",
+   "hu": null,
+   "de": "Arteria ethmoidalis anterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior horn of spinal cord": {
+   "wikidata": "Q2997445",
+   "hu": "elülső szarv",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior inferior cerebellar artery": {
+   "wikidata": "Q707277",
+   "hu": null,
+   "de": "Arteria inferior anterior cerebelli",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior inferior pancreaticoduodenal artery": {
+   "wikidata": "Q38042008",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior intercavernous sinus": {
+   "wikidata": "Q66539926",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior intermuscular septum of leg": {
+   "wikidata": "Q4771340",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior interosseous nerve of forearm": {
+   "wikidata": "Q4771357",
+   "hu": null,
+   "de": "Nervus interosseus anterior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior jugular vein": {
+   "wikidata": "Q3269830",
+   "hu": null,
+   "de": "Vena jugularis anterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior layer of thoracolumbar fascia": {
+   "wikidata": "Q66509212",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior ligament of fibular head": {
+   "wikidata": "Q4771369",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior longitudinal ligament": {
+   "wikidata": "Q669260",
+   "hu": null,
+   "de": "Ligamentum longitudinale anterius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior quadrangular lobule": {
+   "wikidata": "Q66570065",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Anterior root of posterior femoral cutaneous nerve": {
+   "wikidata": "Q116476873",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior root of spinal nerve": {
+   "wikidata": "Q869311",
+   "hu": "mellső gyökér",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior sacro-iliac ligament": {
+   "wikidata": "Q4771392",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior segment of eyeball": {
+   "wikidata": "Q66555366",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Anterior segmental artery of left lung": {
+   "wikidata": "Q66507993",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior segmental artery of right lung": {
+   "wikidata": "Q66504087",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior septal branches of anterior ethmoidal artery": {
+   "wikidata": "Q66569399",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior spinal artery": {
+   "wikidata": "Q490172",
+   "hu": null,
+   "de": "Arteria spinalis anterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior spinocerebellar tract": {
+   "wikidata": "Q2758245",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior spinothalamic tract": {
+   "wikidata": "Q4771397",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior sternoclavicular ligament": {
+   "wikidata": "Q4771398",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior talocalcaneal ligament": {
+   "wikidata": "Q4771407",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior talofibular ligament": {
+   "wikidata": "Q3829591",
+   "hu": null,
+   "de": "ligamentum talofibulare anterius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior tibial artery": {
+   "wikidata": "Q707651",
+   "hu": null,
+   "de": "Arteria tibialis anterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Anterior tibial veins": {
+   "wikidata": "Q3448908",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Anterior tibiofibular ligament": {
+   "wikidata": "Q4771413",
+   "hu": null,
+   "de": "Ligamentum tibiofibulare anterius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior vein of left lung": {
+   "wikidata": "Q131340701",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Anterior vein of right lung": {
+   "wikidata": "Q66508101",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Aortic arch": {
+   "wikidata": "Q616032",
+   "hu": null,
+   "de": "Aortenbogen",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Apical segmental artery of left lung": {
+   "wikidata": "Q66504097",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Apical segmental artery of right lung": {
+   "wikidata": "Q66504084",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Apical vein of right lung": {
+   "wikidata": "Q66508104",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Apicoposterior vein of left lung": {
+   "wikidata": "Q66504233",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Appendicular artery": {
+   "wikidata": "Q706969",
+   "hu": null,
+   "de": "Arteria appendicularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Aqueduct of midbrain": {
+   "wikidata": "Q623016",
+   "hu": null,
+   "de": "Aquaeductus mesencephali",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Arcuate popliteal ligament": {
+   "wikidata": "Q4787736",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Artery of central sulcus": {
+   "wikidata": "Q66575066",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Artery of precentral sulcus": {
+   "wikidata": "Q66539618",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Artery of pterygoid canal": {
+   "wikidata": "Q3271220",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Articular capsule of elbow joint": {
+   "wikidata": "Q66527850",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Articular capsule of glenohumeral joint": {
+   "wikidata": "Q66524897",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Articular capsule of hip joint": {
+   "wikidata": "Q66530750",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Articular capsule of knee joint": {
+   "wikidata": "Q66533212",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Articular capsule of sternoclavicular joint": {
+   "wikidata": "Q66517254",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Articular capsule of temporomandibular joint": {
+   "wikidata": "Q66553784",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Articular disc of acromioclavicular joint": {
+   "wikidata": "Q66517266",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Articular disc of distal radio-ulnar joint": {
+   "wikidata": "Q3238430",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Articular disc of sternoclavicular joint": {
+   "wikidata": "Q66517255",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Articular disc of temporomandibular joint": {
+   "wikidata": "Q4800944",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Articularis genus muscle": {
+   "wikidata": "Q1640816",
+   "hu": null,
+   "de": "Musculus articularis genus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ary-epiglottic part of oblique arytenoid muscle": {
+   "wikidata": "Q385089",
+   "hu": "musculus aryepiglotticus",
+   "de": "Musculus aryepiglotticus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Arytenoid cartilage": {
+   "wikidata": "Q1545154",
+   "hu": "kannaporc",
+   "de": "Stellknorpel",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ascending aorta": {
+   "wikidata": "Q2349469",
+   "hu": null,
+   "de": "aufsteigende Aorta",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ascending branch of left colic artery": {
+   "wikidata": "Q38047666",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ascending part of trapezius muscle": {
+   "wikidata": "Q66523040",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ascending pharyngeal artery": {
+   "wikidata": "Q486797",
+   "hu": null,
+   "de": "Arteria pharyngea ascendens",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Atlas (C1)": {
+   "wikidata": "Q655357",
+   "hu": "atlasz",
+   "de": "Atlas",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Auditory tube": {
+   "wikidata": "Q320561",
+   "hu": "fülkürt",
+   "de": "Eustachi-Röhre",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Axillary artery": {
+   "wikidata": "Q502164",
+   "hu": "hónaljverőér",
+   "de": "Arteria axillaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Axillary nerve": {
+   "wikidata": "Q1547173",
+   "hu": null,
+   "de": "Nervus axillaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Axillary vein": {
+   "wikidata": "Q682122",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Axis (C2)": {
+   "wikidata": "Q792567",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Azygos vein": {
+   "wikidata": "Q591137",
+   "hu": null,
+   "de": "Vena azygos",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Basilar artery": {
+   "wikidata": "Q500339",
+   "hu": null,
+   "de": "Arteria basilaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Basilic vein": {
+   "wikidata": "Q1601362",
+   "hu": null,
+   "de": "Vena basilica",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Biceps brachii muscle": {
+   "wikidata": "Q201363",
+   "hu": "kétfejű karizom",
+   "de": "Musculus biceps brachii",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Biceps femoris muscle": {
+   "wikidata": "Q601016",
+   "hu": null,
+   "de": "Musculus biceps femoris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Bicipitoradial bursa": {
+   "wikidata": "Q4903637",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Bifurcation of pulmonary trunk": {
+   "wikidata": "Q66504266",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Biventral lobule": {
+   "wikidata": "Q4919235",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Body of sternum": {
+   "wikidata": "Q16356",
+   "hu": null,
+   "de": "Corpus sterni",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Brachial artery": {
+   "wikidata": "Q503643",
+   "hu": "karartéria",
+   "de": "Arteria brachialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Brachial fascia": {
+   "wikidata": "Q4953276",
+   "hu": null,
+   "de": "Fascia brachii",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Brachial veins": {
+   "wikidata": "Q939933",
+   "hu": null,
+   "de": "Vena brachialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Brachialis muscle": {
+   "wikidata": "Q752441",
+   "hu": "felkari izom",
+   "de": "Musculus brachialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Brachiocephalic trunk": {
+   "wikidata": "Q515917",
+   "hu": "truncus brachiocephalicus",
+   "de": "Truncus brachiocephalicus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Brachioradialis muscle": {
+   "wikidata": "Q385484",
+   "hu": "musculus brachioradialis",
+   "de": "Musculus brachioradialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Buccal artery": {
+   "wikidata": "Q488932",
+   "hu": null,
+   "de": "Arteria buccalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Buccal nerve": {
+   "wikidata": "Q3338317",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Bucinator": {
+   "wikidata": "Q846480",
+   "hu": "trombitásizom",
+   "de": "Musculus buccinator",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Bursa of piriformis muscle": {
+   "wikidata": "Q66535512",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Calcaneal branches of fibular artery": {
+   "wikidata": "Q66534919",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Calcaneal branches of posterior tibial artery": {
+   "wikidata": "Q66569296",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Calcaneal tendon": {
+   "wikidata": "Q223172",
+   "hu": "Achilles-ín",
+   "de": "Achillessehne",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Calcaneocuboid ligament": {
+   "wikidata": "Q5018675",
+   "hu": null,
+   "de": "ligamentum calcaneocuboideum",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Calcaneofibular ligament": {
+   "wikidata": "Q5018678",
+   "hu": null,
+   "de": "ligamentum calcaneofibulare",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Calcaneonavicular ligament": {
+   "wikidata": "Q66534098",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Calcaneus": {
+   "wikidata": "Q13075",
+   "hu": "sarokcsont",
+   "de": "Fersenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Calcarine sulcus": {
+   "wikidata": "Q1970226",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Callosomarginal artery": {
+   "wikidata": "Q66539476",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Capitate bone": {
+   "wikidata": "Q752369",
+   "hu": "fejescsont",
+   "de": "Kopfbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Capitohamate interosseous ligament": {
+   "wikidata": "Q114166349",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cauda equina": {
+   "wikidata": "Q1051445",
+   "hu": null,
+   "de": "Cauda equina",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Caudate nucleus": {
+   "wikidata": "Q1132309",
+   "hu": null,
+   "de": "Nucleus caudatus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Central canal": {
+   "wikidata": "Q190634",
+   "hu": null,
+   "de": "Zentralkanal",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Central lobule": {
+   "wikidata": "Q5062110",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Central retinal artery": {
+   "wikidata": "Q489722",
+   "hu": null,
+   "de": "Arteria centralis retinae",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Central sulcus": {
+   "wikidata": "Q972250",
+   "hu": null,
+   "de": "Sulcus centralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cephalic vein": {
+   "wikidata": "Q1670335",
+   "hu": null,
+   "de": "Vena cephalica",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Chorda tympani": {
+   "wikidata": "Q1076379",
+   "hu": null,
+   "de": "Chorda tympani",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Choroid plexus": {
+   "wikidata": "Q926250",
+   "hu": "plexus choroideus",
+   "de": "Plexus choroideus",
+   "via": [
+    "english"
+   ]
+  },
+  "Circular sulcus of insula": {
+   "wikidata": "Q66590348",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Circumflex artery of heart": {
+   "wikidata": "Q5121741",
+   "hu": null,
+   "de": "Ramus circumflexus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Circumflex scapular artery": {
+   "wikidata": "Q707112",
+   "hu": null,
+   "de": "Arteria circumflexa scapulae",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Circumflex scapular vein": {
+   "wikidata": "Q66575135",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Clavicle": {
+   "wikidata": "Q16343",
+   "hu": "kulcscsont",
+   "de": "Schlüsselbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Clavicular head of pectoralis major muscle": {
+   "wikidata": "Q115087977",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Clavicular part of deltoid muscle": {
+   "wikidata": "Q66524646",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Clavipectoral fascia": {
+   "wikidata": "Q5129640",
+   "hu": null,
+   "de": "Fascia clavipectoralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Coccygeus muscle": {
+   "wikidata": "Q1059818",
+   "hu": "musculus coccygeus",
+   "de": "Musculus coccygeus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Coccyx": {
+   "wikidata": "Q193176",
+   "hu": "farokcsont",
+   "de": "Steißbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Coeliac trunk": {
+   "wikidata": "Q519368",
+   "hu": null,
+   "de": "Truncus coeliacus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Colic branch of ileocolic artery": {
+   "wikidata": "Q5144814",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Collateral interphalangeal ligaments of foot": {
+   "wikidata": "Q5145993",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Collateral interphalangeal ligaments of hand": {
+   "wikidata": "Q5145992",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Collateral metacarpophalangeal ligaments": {
+   "wikidata": "Q5145995",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Collateral metatarsophalangeal ligaments": {
+   "wikidata": "Q5145994",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Collateral sulcus": {
+   "wikidata": "Q5145989",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Common extensor tendon": {
+   "wikidata": "Q5153540",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Common facial vein": {
+   "wikidata": "Q136718184",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Common fibular nerve": {
+   "wikidata": "Q1577203",
+   "hu": null,
+   "de": "Nervus fibularis communis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Common flexor tendon": {
+   "wikidata": "Q3512919",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Common flexor tendon sheath": {
+   "wikidata": "Q5153544",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Common hepatic artery": {
+   "wikidata": "Q707236",
+   "hu": null,
+   "de": "Arteria hepatica communis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Common iliac artery": {
+   "wikidata": "Q707257",
+   "hu": null,
+   "de": "Arteria iliaca communis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Common iliac vein": {
+   "wikidata": "Q3143036",
+   "hu": null,
+   "de": "Vena iliaca communis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Common interosseous artery": {
+   "wikidata": "Q707303",
+   "hu": null,
+   "de": "Arteria interossea communis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Common palmar digital branches of median nerve": {
+   "wikidata": "Q5153588",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Common palmar digital branches of ulnar nerve": {
+   "wikidata": "Q5153589",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Common plantar digital arteries": {
+   "wikidata": "Q5153594",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Common plantar digital branches of lateral plantar nerve": {
+   "wikidata": "Q5153596",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Common plantar digital branches of medial plantar nerve": {
+   "wikidata": "Q5153597",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Common tendinous ring": {
+   "wikidata": "Q612431",
+   "hu": null,
+   "de": "Anulus tendineus communis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Common tendon sheath of fibularis muscles": {
+   "wikidata": "Q66535563",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Communicating branch of median nerve with ulnar nerve": {
+   "wikidata": "Q114809850",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Conoid ligament": {
+   "wikidata": "Q2796182",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Coraco-acromial ligament": {
+   "wikidata": "Q1857678",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Coracobrachialis muscle": {
+   "wikidata": "Q730359",
+   "hu": "musculus coracobrachialis",
+   "de": "Musculus coracobrachialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Coracohumeral ligament": {
+   "wikidata": "Q5169423",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cornea": {
+   "wikidata": "Q168291",
+   "hu": "szaruhártya",
+   "de": "Hornhaut",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Corniculate cartilage": {
+   "wikidata": "Q2940600",
+   "hu": "szarvporc",
+   "de": "Cartilago corniculata",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Coronary sinus": {
+   "wikidata": "Q629460",
+   "hu": null,
+   "de": "Koronarvenensinus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Corpus callosum": {
+   "wikidata": "Q223851",
+   "hu": "kérgestest",
+   "de": "Corpus callosum",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Costocervical trunk": {
+   "wikidata": "Q484868",
+   "hu": null,
+   "de": "Truncus costocervicalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Costoclavicular ligament": {
+   "wikidata": "Q5175169",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Costotransverse ligament": {
+   "wikidata": "Q5175184",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cricoid cartilage": {
+   "wikidata": "Q638244",
+   "hu": "gyűrűporc",
+   "de": "Ringknorpel",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cricopharyngeal ligament": {
+   "wikidata": "Q5185086",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cruciform part of fibrous sheath of digit of hand": {
+   "wikidata": "Q66574348",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Crural fascia": {
+   "wikidata": "Q5190125",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cuboid bone": {
+   "wikidata": "Q658424",
+   "hu": null,
+   "de": "Würfelbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Culmen": {
+   "wikidata": "Q5193078",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cuneate fasciculus": {
+   "wikidata": "Q1138975",
+   "hu": null,
+   "de": "Fasciculus cuneatus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Cuneocuboid interosseous ligament": {
+   "wikidata": "Q6056213",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Cuneometatarsal interosseous ligaments": {
+   "wikidata": "Q6056216",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Cuneus": {
+   "wikidata": "Q961620",
+   "hu": null,
+   "de": "Cuneus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep artery of penis": {
+   "wikidata": "Q4115302",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep brachial artery": {
+   "wikidata": "Q707473",
+   "hu": null,
+   "de": "Arteria profunda brachii",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep branch of radial nerve": {
+   "wikidata": "Q5250372",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep branch of transverse cervical artery": {
+   "wikidata": "Q136294446",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Deep branch of ulnar nerve": {
+   "wikidata": "Q5250374",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep cervical artery": {
+   "wikidata": "Q485148",
+   "hu": null,
+   "de": "Arteria cervicalis profunda",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep external pudendal artery": {
+   "wikidata": "Q5250384",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep femoral artery": {
+   "wikidata": "Q707477",
+   "hu": null,
+   "de": "Arteria profunda femoris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep femoral vein": {
+   "wikidata": "Q6641978",
+   "hu": null,
+   "de": "tiefe Oberschenkelvene",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep fibular nerve": {
+   "wikidata": "Q3088530",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep head of flexor pollicis brevis": {
+   "wikidata": "Q66536303",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep head of pronator teres": {
+   "wikidata": "Q66527691",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep infrapatellar bursa": {
+   "wikidata": "Q66533653",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep palmar arch": {
+   "wikidata": "Q638316",
+   "hu": null,
+   "de": "Arcus palmaris profundus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep part of masseter": {
+   "wikidata": "Q66538434",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep part of tibial collateral ligament": {
+   "wikidata": "Q119979068",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep plantar artery": {
+   "wikidata": "Q5250428",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deep transverse metacarpal ligament": {
+   "wikidata": "Q5250449",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deep transverse metatarsal ligament": {
+   "wikidata": "Q7835443",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Deep venous palmar arch": {
+   "wikidata": "Q3320884",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Deltoid fascia": {
+   "wikidata": "Q5254858",
+   "hu": null,
+   "de": "Fascia deltoidea",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Deltoid muscle": {
+   "wikidata": "Q130243",
+   "hu": "deltaizom",
+   "de": "Musculus deltoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Depressor anguli oris": {
+   "wikidata": "Q589085",
+   "hu": "szájzugot lefelé húzó izom",
+   "de": "Musculus depressor anguli oris",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Depressor labii inferioris": {
+   "wikidata": "Q663261",
+   "hu": "alsó ajkat lefelé húzó izom",
+   "de": "Musculus depressor labii inferioris",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Depressor septi nasi": {
+   "wikidata": "Q1091300",
+   "hu": "musculus depressor septi nasi",
+   "de": "Musculus depressor septi nasi",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Descending branch of lateral circumflex femoral artery": {
+   "wikidata": "Q5263717",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Descending branch of left colic artery": {
+   "wikidata": "Q38047668",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Descending palatine artery": {
+   "wikidata": "Q487474",
+   "hu": null,
+   "de": "Arteria palatina descendens",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Descending part of iliofemoral ligament": {
+   "wikidata": "Q66531862",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Descending part of trapezius muscle": {
+   "wikidata": "Q66523042",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Diaphragm": {
+   "wikidata": "Q9654",
+   "hu": "rekeszizom",
+   "de": "Zwerchfell",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Diaphragmatic fascia": {
+   "wikidata": "Q66509202",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal artery of penis": {
+   "wikidata": "Q2080394",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal branch of ulnar nerve": {
+   "wikidata": "Q5298765",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal calcaneocuboid ligament": {
+   "wikidata": "Q5298766",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal carpal anastomosis": {
+   "wikidata": "Q5298767",
+   "hu": null,
+   "de": "Rete carpi dorsale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal carpal branch of ulnar artery": {
+   "wikidata": "Q5298768",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal carpometacarpal ligaments": {
+   "wikidata": "Q5298769",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal cuboideonavicular ligament": {
+   "wikidata": "Q5298772",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal cuneocuboid ligament": {
+   "wikidata": "Q5298773",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal cuneonavicular ligaments": {
+   "wikidata": "Q5298774",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal digital arteries of foot": {
+   "wikidata": "Q5298777",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal digital arteries of hand": {
+   "wikidata": "Q3328760",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal digital branches of radial nerve": {
+   "wikidata": "Q5298780",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Dorsal digital branches of ulnar nerve": {
+   "wikidata": "Q5298781",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Dorsal digital veins of foot": {
+   "wikidata": "Q5298783",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal digital veins of hand": {
+   "wikidata": "Q114779959",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal fascia of hand": {
+   "wikidata": "Q66530462",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal intercarpal ligaments": {
+   "wikidata": "Q5298784",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Dorsal intercuneiform ligaments": {
+   "wikidata": "Q5298785",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal interossei muscles of foot": {
+   "wikidata": "Q2359065",
+   "hu": null,
+   "de": "Musculi interossei dorsales des Fußes",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal interossei muscles of hand": {
+   "wikidata": "Q11277687",
+   "hu": null,
+   "de": "Musculi interossei dorsales",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal metacarpal arteries": {
+   "wikidata": "Q3328736",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal metacarpal ligaments": {
+   "wikidata": "Q66569166",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Dorsal metatarsal arteries": {
+   "wikidata": "Q5298790",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal metatarsal ligaments": {
+   "wikidata": "Q5298792",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal metatarsal veins": {
+   "wikidata": "Q5298793",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal parts of lateral intertransversarii lumborum muscles": {
+   "wikidata": "Q66573769",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal radio-ulnar ligament": {
+   "wikidata": "Q5298801",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal radiocarpal ligament": {
+   "wikidata": "Q5298800",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal scaphotriquetral ligament": {
+   "wikidata": "Q114129578",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal scapular nerve": {
+   "wikidata": "Q1740177",
+   "hu": null,
+   "de": "Nervus dorsalis scapulae",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal tarsometatarsal ligaments": {
+   "wikidata": "Q5298810",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal ulnocarpal ligament": {
+   "wikidata": "Q5298812",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Dorsal venous arch of foot": {
+   "wikidata": "Q5298813",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsal venous network of hand": {
+   "wikidata": "Q3324393",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Dorsalis pedis artery": {
+   "wikidata": "Q2865983",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Eighth rib": {
+   "wikidata": "Q51093562",
+   "hu": null,
+   "de": "achte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Eleventh rib": {
+   "wikidata": "Q5359828",
+   "hu": null,
+   "de": "elfte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Epicranial aponeurosis": {
+   "wikidata": "Q1973755",
+   "hu": null,
+   "de": "Galea aponeurotica",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Erector spinae": {
+   "wikidata": "Q774933",
+   "hu": null,
+   "de": "Musculus erector spinae",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Ethmoid bone": {
+   "wikidata": "Q16331",
+   "hu": "rostacsont",
+   "de": "Siebbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Extensor carpi radialis brevis": {
+   "wikidata": "Q847458",
+   "hu": "rövid orsócsonti csuklófeszítő izom",
+   "de": "Musculus extensor carpi radialis brevis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Extensor carpi radialis longus": {
+   "wikidata": "Q847092",
+   "hu": "hosszú orsócsonti csuklófeszítő izom",
+   "de": "Musculus extensor carpi radialis longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor carpi ulnaris": {
+   "wikidata": "Q527634",
+   "hu": "singcsonti csuklófeszítő izom",
+   "de": "Musculus extensor carpi ulnaris",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor digiti minimi": {
+   "wikidata": "Q19030",
+   "hu": "kisujjfeszítő izom",
+   "de": "Musculus extensor digiti minimi",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor digitorum": {
+   "wikidata": "Q901101",
+   "hu": "ujjakat feszítő izom",
+   "de": "Musculus extensor digitorum",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor digitorum brevis": {
+   "wikidata": "Q1688555",
+   "hu": null,
+   "de": "Musculus extensor digitorum brevis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor digitorum longus": {
+   "wikidata": "Q1684283",
+   "hu": null,
+   "de": "Musculus extensor digitorum longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor hallucis brevis": {
+   "wikidata": "Q1330812",
+   "hu": null,
+   "de": "Musculus extensor hallucis brevis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor hallucis longus": {
+   "wikidata": "Q1446138",
+   "hu": null,
+   "de": "Musculus extensor hallucis longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor indicis": {
+   "wikidata": "Q932883",
+   "hu": "Musculus extensor indicis proprius",
+   "de": "Musculus extensor indicis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor pollicis brevis": {
+   "wikidata": "Q901116",
+   "hu": "rövid hüvelykujjfeszítő izom",
+   "de": "Musculus extensor pollicis brevis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor pollicis longus": {
+   "wikidata": "Q574632",
+   "hu": "hosszú hüvelykujjfeszítő izom",
+   "de": "Musculus extensor pollicis longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Extensor retinaculum of wrist": {
+   "wikidata": "Q1425589",
+   "hu": null,
+   "de": "Retinaculum extensorum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "External abdominal oblique muscle": {
+   "wikidata": "Q746123",
+   "hu": null,
+   "de": "Musculus obliquus externus abdominis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "External anal sphincter": {
+   "wikidata": "Q2379958",
+   "hu": null,
+   "de": "Musculus sphincter ani externus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "External carotid artery": {
+   "wikidata": "Q125276",
+   "hu": "arteria carotis externa",
+   "de": "Arteria carotis externa",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "External iliac artery": {
+   "wikidata": "Q585053",
+   "hu": null,
+   "de": "Arteria iliaca externa",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "External iliac vein": {
+   "wikidata": "Q3090687",
+   "hu": null,
+   "de": "Vena iliaca externa",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "External intercostal membrane": {
+   "wikidata": "Q5422036",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "External intercostal muscles": {
+   "wikidata": "Q834781",
+   "hu": "bordaközi izmok",
+   "de": "Musculus intercostalis externus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "External jugular vein": {
+   "wikidata": "Q2512768",
+   "hu": null,
+   "de": "äußere Drosselvene",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "External part of thyro-arytenoid muscle": {
+   "wikidata": "Q130234628",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "External pudendal veins": {
+   "wikidata": "Q5422044",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Facial artery": {
+   "wikidata": "Q282371",
+   "hu": null,
+   "de": "Arteria facialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Facial vein": {
+   "wikidata": "Q3555260",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Falx cerebri": {
+   "wikidata": "Q1395055",
+   "hu": "nagyagysarló",
+   "de": "Falx cerebri",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Fascia lata": {
+   "wikidata": "Q1397347",
+   "hu": null,
+   "de": "Fascia lata",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Femoral artery": {
+   "wikidata": "Q707174",
+   "hu": null,
+   "de": "Arteria femoralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Femoral branch of genitofemoral nerve": {
+   "wikidata": "Q6703135",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Femoral nerve": {
+   "wikidata": "Q545676",
+   "hu": null,
+   "de": "Nervus femoralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Femoral vein": {
+   "wikidata": "Q368521",
+   "hu": null,
+   "de": "Oberschenkelvene",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Femur": {
+   "wikidata": "Q176503",
+   "hu": "combcsont",
+   "de": "Oberschenkelknochen",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Fibula": {
+   "wikidata": "Q302896",
+   "hu": "szárkapocs",
+   "de": "Wadenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Fibular artery": {
+   "wikidata": "Q3444008",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Fibular collateral ligament": {
+   "wikidata": "Q3266889",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Fibular veins": {
+   "wikidata": "Q3448955",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Fibularis brevis muscle": {
+   "wikidata": "Q1723682",
+   "hu": null,
+   "de": "Musculus fibularis brevis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Fibularis longus muscle": {
+   "wikidata": "Q1386945",
+   "hu": null,
+   "de": "Musculus fibularis longus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Fibularis tertius muscle": {
+   "wikidata": "Q1757887",
+   "hu": null,
+   "de": "Musculus peroneus tertius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Fifth metacarpal bone": {
+   "wikidata": "Q724563",
+   "hu": "V. kézközépcsont",
+   "de": "fünfter Mittelhandknochen",
+   "via": [
+    "english"
+   ]
+  },
+  "Fifth metatarsal bone": {
+   "wikidata": "Q5447591",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Fifth rib": {
+   "wikidata": "Q51078062",
+   "hu": null,
+   "de": "fünfte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "First metacarpal bone": {
+   "wikidata": "Q724575",
+   "hu": "I. kézközépcsont",
+   "de": "erster Mittelhandknochen",
+   "via": [
+    "english"
+   ]
+  },
+  "First metatarsal bone": {
+   "wikidata": "Q5454211",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "First posterior intercostal artery": {
+   "wikidata": "Q66562372",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "First rib": {
+   "wikidata": "Q5454239",
+   "hu": null,
+   "de": "erste Rippe",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Flexor carpi radialis": {
+   "wikidata": "Q914475",
+   "hu": "orsócsonti csuklóhajlító izom",
+   "de": "Musculus flexor carpi radialis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor carpi ulnaris": {
+   "wikidata": "Q279039",
+   "hu": "singcsonti csuklóhajlító izom",
+   "de": "Musculus flexor carpi ulnaris",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor digiti minimi of foot": {
+   "wikidata": "Q476952",
+   "hu": null,
+   "de": "Musculus flexor digiti minimi brevis pedis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor digiti minimi of hand": {
+   "wikidata": "Q238607",
+   "hu": "rövid kisujjhajlító izom",
+   "de": "Musculus flexor digiti minimi brevis Manus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor digitorum brevis": {
+   "wikidata": "Q1328793",
+   "hu": null,
+   "de": "Musculus flexor digitorum brevis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor digitorum longus": {
+   "wikidata": "Q1892025",
+   "hu": null,
+   "de": "Musculus flexor digitorum longus",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Flexor digitorum profundus": {
+   "wikidata": "Q840592",
+   "hu": "mély ujjakat hajlító izom",
+   "de": "Musculus flexor digitorum profundus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor digitorum superficialis": {
+   "wikidata": "Q847112",
+   "hu": "felületes ujjhajlító izom",
+   "de": "Musculus flexor digitorum superficialis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor hallucis longus": {
+   "wikidata": "Q1500559",
+   "hu": null,
+   "de": "Musculus flexor hallucis longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor pollicis longus": {
+   "wikidata": "Q901571",
+   "hu": "hosszú hüvelykujjhajlító izom",
+   "de": "Musculus flexor pollicis longus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Flexor retinaculum of ankle": {
+   "wikidata": "Q5459037",
+   "hu": null,
+   "de": "Retinaculum flexorum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Flexor retinaculum of wrist": {
+   "wikidata": "Q449457",
+   "hu": null,
+   "de": "Retinaculum flexorum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Flocculus": {
+   "wikidata": "Q3500601",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Folium of vermis": {
+   "wikidata": "Q5464398",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Fornix": {
+   "wikidata": "Q1230047",
+   "hu": null,
+   "de": "Fornix",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Fourth metacarpal bone": {
+   "wikidata": "Q724569",
+   "hu": "IV. kézközépcsont",
+   "de": "vierter Mittelhandknochen",
+   "via": [
+    "english"
+   ]
+  },
+  "Fourth metatarsal bone": {
+   "wikidata": "Q5476258",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Fourth rib": {
+   "wikidata": "Q51077998",
+   "hu": null,
+   "de": "vierte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Fourth ventricle": {
+   "wikidata": "Q1069121",
+   "hu": "negyedik agykamra",
+   "de": "vierter Ventrikel",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Frontal bone": {
+   "wikidata": "Q16295",
+   "hu": "homlokcsont",
+   "de": "Stirnbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Frontal branch of superficial temporal artery": {
+   "wikidata": "Q5505906",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Frontal branches of callosomarginal artery": {
+   "wikidata": "Q135947884",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Frontalis muscle": {
+   "wikidata": "Q614557",
+   "hu": "homlokizom",
+   "de": "Musculus frontalis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ganglia of sympathetic trunk": {
+   "wikidata": "Q7136260",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin"
+   ]
+  },
+  "Gastroduodenal artery": {
+   "wikidata": "Q707194",
+   "hu": null,
+   "de": "Arteria gastroduodenalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Genicular veins": {
+   "wikidata": "Q66568791",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Genioglossus muscle": {
+   "wikidata": "Q580326",
+   "hu": "musculus genioglossus",
+   "de": "Musculus genioglossus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Geniohyoid muscle": {
+   "wikidata": "Q1072007",
+   "hu": "állcsúcs-nyelvcsonti izom",
+   "de": "Musculus geniohyoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Genital branch of genitofemoral nerve": {
+   "wikidata": "Q5533224",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Genitofemoral nerve": {
+   "wikidata": "Q1523307",
+   "hu": null,
+   "de": "Nervus genitofemoralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Glenoid labrum": {
+   "wikidata": "Q928286",
+   "hu": null,
+   "de": "Labrum glenoidale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Globus pallidus": {
+   "wikidata": "Q1759633",
+   "hu": null,
+   "de": "Globus pallidus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Gluteus maximus muscle": {
+   "wikidata": "Q637545",
+   "hu": "Nagy farizom",
+   "de": "Musculus gluteus maximus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Gluteus medius muscle": {
+   "wikidata": "Q1126170",
+   "hu": null,
+   "de": "Musculus gluteus medius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Gluteus minimus muscle": {
+   "wikidata": "Q523799",
+   "hu": null,
+   "de": "Musculus gluteus minimus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Gracile fasciculus": {
+   "wikidata": "Q1138642",
+   "hu": null,
+   "de": "Fasciculus gracilis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Gracile lobule": {
+   "wikidata": "Q66570070",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Gracilis muscle": {
+   "wikidata": "Q1428669",
+   "hu": null,
+   "de": "Musculus gracilis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Great cardiac vein": {
+   "wikidata": "Q2886255",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Great saphenous vein": {
+   "wikidata": "Q543323",
+   "hu": null,
+   "de": "Vena saphena magna",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Greater palatine artery": {
+   "wikidata": "Q5600889",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Habenula": {
+   "wikidata": "Q267641",
+   "hu": null,
+   "de": "Habenulae",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hamate bone": {
+   "wikidata": "Q54393",
+   "hu": "horgascsont",
+   "de": "Hakenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hemi-azygos vein": {
+   "wikidata": "Q2214048",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Hepatic portal vein": {
+   "wikidata": "Q464543",
+   "hu": "májkapugyűjtőér",
+   "de": "Pfortader",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hepatic veins": {
+   "wikidata": "Q1578686",
+   "hu": null,
+   "de": "Lebervene",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hip bone": {
+   "wikidata": "Q3356933",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hippocampal commissure": {
+   "wikidata": "Q41759310",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Hippocampus": {
+   "wikidata": "Q48360",
+   "hu": "hippokampusz",
+   "de": "Hippocampus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Humeral head of extensor carpi ulnaris": {
+   "wikidata": "Q66574824",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Humeral head of flexor carpi ulnaris": {
+   "wikidata": "Q66527732",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Humero-ulnar head of flexor digitorum superficialis": {
+   "wikidata": "Q115128268",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Humerus": {
+   "wikidata": "Q162595",
+   "hu": "felkarcsont",
+   "de": "Oberarmknochen",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hyoglossus muscle": {
+   "wikidata": "Q247359",
+   "hu": "musculus hyoglossus",
+   "de": "Musculus hyoglossus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hyoid bone": {
+   "wikidata": "Q16332",
+   "hu": "nyelvcsont",
+   "de": "Zungenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Hypothalamus": {
+   "wikidata": "Q164386",
+   "hu": "hipotalamusz",
+   "de": "Hypothalamus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ileal branch of ileocolic artery": {
+   "wikidata": "Q5997438",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ileocolic artery": {
+   "wikidata": "Q241186",
+   "hu": null,
+   "de": "Arteria ileocolica",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliacus branch of iliolumbar artery": {
+   "wikidata": "Q12230575",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliacus muscle": {
+   "wikidata": "Q1508879",
+   "hu": null,
+   "de": "Musculus iliacus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ilio-inguinal nerve": {
+   "wikidata": "Q1460988",
+   "hu": null,
+   "de": "Nervus ilioinguinalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliococcygeus muscle": {
+   "wikidata": "Q383359",
+   "hu": "musculus iliococcygeus",
+   "de": "Musculus iliococcygeus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliocostalis colli muscle": {
+   "wikidata": "Q66514735",
+   "hu": null,
+   "de": "iliocostalis cervicis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliocostalis lumborum muscle": {
+   "wikidata": "Q1180020",
+   "hu": "musculus iliocostalis lumborum",
+   "de": "iliocostalis lumborum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliocostalis thoracis muscle": {
+   "wikidata": "Q66514734",
+   "hu": null,
+   "de": "iliocostalis thoracis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliohypogastric nerve": {
+   "wikidata": "Q478619",
+   "hu": null,
+   "de": "Nervus iliohypogastricus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliolumbar artery": {
+   "wikidata": "Q545929",
+   "hu": null,
+   "de": "Arteria iliolumbalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliolumbar ligament": {
+   "wikidata": "Q5998331",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliolumbar vein": {
+   "wikidata": "Q5998326",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Iliopectineal arch": {
+   "wikidata": "Q5998334",
+   "hu": null,
+   "de": "Arcus iliopectineus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliopectineal bursa": {
+   "wikidata": "Q5998336",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliopsoas fascia": {
+   "wikidata": "Q66509201",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliopsoas muscle": {
+   "wikidata": "Q2083654",
+   "hu": null,
+   "de": "Iliopsoas",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iliotibial tract": {
+   "wikidata": "Q2447635",
+   "hu": null,
+   "de": "Tractus iliotibialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Incus": {
+   "wikidata": "Q497385",
+   "hu": "üllő",
+   "de": "Amboss",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior alveolar artery": {
+   "wikidata": "Q486774",
+   "hu": null,
+   "de": "Arteria alveolaris inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior alveolar nerve": {
+   "wikidata": "Q1538474",
+   "hu": null,
+   "de": "Nervus alveolaris inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior basal vein of left lung": {
+   "wikidata": "Q131340806",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior basal vein of right lung": {
+   "wikidata": "Q66507620",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior colliculus": {
+   "wikidata": "Q358512",
+   "hu": null,
+   "de": "Colliculi inferiores",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior epigastric artery": {
+   "wikidata": "Q305187",
+   "hu": null,
+   "de": "Arteria epigastrica inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior epigastric vein": {
+   "wikidata": "Q6029315",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior extensor retinaculum of ankle": {
+   "wikidata": "Q6029317",
+   "hu": null,
+   "de": "Retinaculum extensorum inferius pedis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Inferior fibular retinaculum": {
+   "wikidata": "Q66540455",
+   "hu": null,
+   "de": "Retinaculum fibulare inferius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior frontal sulcus": {
+   "wikidata": "Q2414901",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior gemellus muscle": {
+   "wikidata": "Q1892060",
+   "hu": null,
+   "de": "Musculus gemellus inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior glenohumeral ligament": {
+   "wikidata": "Q66525316",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior gluteal artery": {
+   "wikidata": "Q132000",
+   "hu": null,
+   "de": "Arteria glutaea inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior gluteal veins": {
+   "wikidata": "Q6029342",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior head of lateral pterygoid muscle": {
+   "wikidata": "Q66538446",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior labial artery": {
+   "wikidata": "Q484813",
+   "hu": null,
+   "de": "Arteria labialis inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior labial veins": {
+   "wikidata": "Q6029346",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior lateral brachial cutaneous nerve": {
+   "wikidata": "Q6029350",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Inferior lateral genicular artery": {
+   "wikidata": "Q8205398",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior lingular artery of left lung": {
+   "wikidata": "Q66504103",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior lingular vein of left lung": {
+   "wikidata": "Q66504236",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior lobar artery of right lung": {
+   "wikidata": "Q66563803",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior medial genicular artery": {
+   "wikidata": "Q2865986",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior mesenteric artery": {
+   "wikidata": "Q707384",
+   "hu": null,
+   "de": "Arteria mesenterica inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior mesenteric vein": {
+   "wikidata": "Q3176575",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior nasal concha bone": {
+   "wikidata": "Q552439",
+   "hu": "alsó orrkagyló",
+   "de": "Concha nasalis inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior oblique muscle": {
+   "wikidata": "Q1051437",
+   "hu": "musculus obliquus inferior bulbi",
+   "de": "Musculus obliquus inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior ophthalmic vein": {
+   "wikidata": "Q6029380",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior pancreaticoduodenal artery": {
+   "wikidata": "Q707436",
+   "hu": null,
+   "de": "Arteria pancreaticoduodenalis inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior petrosal sinus": {
+   "wikidata": "Q6029401",
+   "hu": null,
+   "de": "Sinus petrosus inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior pharyngeal constrictor": {
+   "wikidata": "Q569097",
+   "hu": "alsó garat-összeszorító izom",
+   "de": "Musculus constrictor pharyngis inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior phrenic artery": {
+   "wikidata": "Q3491693",
+   "hu": null,
+   "de": "Arteria phrenica inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior pubic ligament": {
+   "wikidata": "Q66513460",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior rectus muscle": {
+   "wikidata": "Q1090267",
+   "hu": "musculus rectus inferior",
+   "de": "Musculus rectus inferior bulbi",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior sagittal sinus": {
+   "wikidata": "Q12764815",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior salivatory nucleus": {
+   "wikidata": "Q6029425",
+   "hu": null,
+   "de": "Nucleus salivatorius inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior semilunar lobule": {
+   "wikidata": "Q66570072",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Inferior subscapular nerve": {
+   "wikidata": "Q623365",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior subtendinous bursa of biceps femoris muscle": {
+   "wikidata": "Q66535474",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior suprarenal artery": {
+   "wikidata": "Q2865999",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior temporal gyrus": {
+   "wikidata": "Q3063959",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior temporal sulcus": {
+   "wikidata": "Q2715105",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior thyroid artery": {
+   "wikidata": "Q488711",
+   "hu": null,
+   "de": "Arteria thyroidea inferior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Inferior transverse scapular ligament": {
+   "wikidata": "Q12391838",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Inferior trunk of brachial plexus": {
+   "wikidata": "Q66561544",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Inferior ulnar collateral artery": {
+   "wikidata": "Q707121",
+   "hu": null,
+   "de": "Arteria collateralis ulnaris inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inferior vein of left ventricle": {
+   "wikidata": "Q7234258",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Infra-orbital artery": {
+   "wikidata": "Q486809",
+   "hu": null,
+   "de": "Arteria infraorbitalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Infrapatellar branch of saphenous nerve": {
+   "wikidata": "Q6031461",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Infrapatellar fat pad": {
+   "wikidata": "Q2624131",
+   "hu": null,
+   "de": "Hoffa-Fettkörper",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Infraspinatus muscle": {
+   "wikidata": "Q19087",
+   "hu": "tövis alatti izom",
+   "de": "Musculus infraspinatus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Inguinal ligament": {
+   "wikidata": "Q285715",
+   "hu": null,
+   "de": "Leistenband",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Innermost intercostal muscles": {
+   "wikidata": "Q727342",
+   "hu": "musculus intercostalis intimus",
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Intercapitular veins of foot": {
+   "wikidata": "Q123370377",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Interclavicular ligament": {
+   "wikidata": "Q6045781",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intercornual ligament": {
+   "wikidata": "Q66513482",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intercostal nerves": {
+   "wikidata": "Q1515961",
+   "hu": null,
+   "de": "Nervus intercostalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Intercuneiform interosseous ligaments": {
+   "wikidata": "Q16956980",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Intermediate cuneiform bone": {
+   "wikidata": "Q3493614",
+   "hu": null,
+   "de": "mittleres Keilbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intermediate dorsal cutaneous nerve of foot": {
+   "wikidata": "Q17067224",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Intermediate tendon of digastric muscle": {
+   "wikidata": "Q130066458",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intermediolateral nucleus": {
+   "wikidata": "Q11731939",
+   "hu": null,
+   "de": "Nucleus intermediolateralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Intermediomedial nucleus": {
+   "wikidata": "Q66571312",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Intermuscular gluteal bursae": {
+   "wikidata": "Q66535506",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Internal abdominal oblique muscle": {
+   "wikidata": "Q1334595",
+   "hu": null,
+   "de": "Musculus obliquus internus abdominis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Internal carotid artery": {
+   "wikidata": "Q515848",
+   "hu": "arteria carotis interna",
+   "de": "Arteria carotis interna",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Internal iliac artery": {
+   "wikidata": "Q532558",
+   "hu": null,
+   "de": "Arteria iliaca interna",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Internal iliac vein": {
+   "wikidata": "Q1165743",
+   "hu": null,
+   "de": "Vena iliaca interna",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Internal intercostal membrane": {
+   "wikidata": "Q66505675",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Internal intercostal muscles": {
+   "wikidata": "Q1954132",
+   "hu": null,
+   "de": "Musculus intercostalis internus",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Internal jugular vein": {
+   "wikidata": "Q540598",
+   "hu": null,
+   "de": "Innere Drosselvene",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Internal pudendal artery": {
+   "wikidata": "Q707489",
+   "hu": null,
+   "de": "Arteria pudenda interna",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Internal pudendal vein": {
+   "wikidata": "Q4116893",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Internal thoracic artery": {
+   "wikidata": "Q497563",
+   "hu": null,
+   "de": "Arteria thoracica interna",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Internal thoracic veins": {
+   "wikidata": "Q3509884",
+   "hu": null,
+   "de": "Vena thoracica interna",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Interosseous membrane of forearm": {
+   "wikidata": "Q1692993",
+   "hu": null,
+   "de": "Membrana interossea antebrachii",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Interosseous membrane of leg": {
+   "wikidata": "Q12636757",
+   "hu": null,
+   "de": "Membrana interossea cruris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Interosseous metacarpal ligaments": {
+   "wikidata": "Q66569168",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Interosseous sacro-iliac ligament": {
+   "wikidata": "Q6056254",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Interpeduncular fossa": {
+   "wikidata": "Q66590342",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Interpubic disc": {
+   "wikidata": "Q66513461",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Intersesamoid ligament": {
+   "wikidata": "Q121007609",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Interspinales colli muscles": {
+   "wikidata": "Q66569101",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Interspinales lumborum muscles": {
+   "wikidata": "Q66569099",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Interspinales thoracis muscles": {
+   "wikidata": "Q66569100",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Interspinous ligaments": {
+   "wikidata": "Q1824640",
+   "hu": null,
+   "de": "Ligamentum interspinale",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Intra-articular ligament of head of rib": {
+   "wikidata": "Q6058287",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intraparietal sulcus": {
+   "wikidata": "Q2490706",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intrarenal veins of left kidney": {
+   "wikidata": "Q137781341",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Intrarenal veins of right kidney": {
+   "wikidata": "Q137781334",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Investing abdominal fascia": {
+   "wikidata": "Q66574172",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Iris": {
+   "wikidata": "Q178748",
+   "hu": "szivárványhártya",
+   "de": "Iris",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ischiofemoral ligament": {
+   "wikidata": "Q6079266",
+   "hu": "Ischiofemoral szalag",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lacrimal artery": {
+   "wikidata": "Q485355",
+   "hu": null,
+   "de": "Arteria lacrimalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lacrimal bone": {
+   "wikidata": "Q212721",
+   "hu": "könnycsont",
+   "de": "Tränenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lacrimal canaliculus": {
+   "wikidata": "Q2076795",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lacrimal gland": {
+   "wikidata": "Q913628",
+   "hu": "könnymirigy",
+   "de": "Tränendrüse",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lacrimal sac": {
+   "wikidata": "Q2517379",
+   "hu": "könnytömlő",
+   "de": "Tränensack",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral antebrachial cutaneous nerve": {
+   "wikidata": "Q6495588",
+   "hu": null,
+   "de": "Nervus cutaneus antebrachii lateralis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral basal segmental artery of left lung": {
+   "wikidata": "Q66504109",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral basal segmental artery of right lung": {
+   "wikidata": "Q66504094",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral circumflex femoral artery": {
+   "wikidata": "Q707089",
+   "hu": null,
+   "de": "Arteria circumflexa femoris lateralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral circumflex femoral veins": {
+   "wikidata": "Q66568788",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral corticospinal tract": {
+   "wikidata": "Q6495580",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral crico-arytenoid muscle": {
+   "wikidata": "Q730870",
+   "hu": "musculus cricoarytenoideus lateralis",
+   "de": "Musculus cricoarytaenoideus lateralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral cuneiform bone": {
+   "wikidata": "Q615837",
+   "hu": null,
+   "de": "äußeres Keilbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral fasciculus proprius": {
+   "wikidata": "Q6495670",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral femoral cutaneous nerve": {
+   "wikidata": "Q510755",
+   "hu": null,
+   "de": "Nervus cutaneus femoris lateralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral femoral intermuscular septum": {
+   "wikidata": "Q6495624",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral frontobasal artery": {
+   "wikidata": "Q66539583",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Lateral geniculate body": {
+   "wikidata": "Q719179",
+   "hu": "oldalsó geniculatus mag",
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral head of flexor hallucis brevis": {
+   "wikidata": "Q66536187",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral head of gastrocnemius": {
+   "wikidata": "Q66536179",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lateral head of triceps brachii": {
+   "wikidata": "Q66526970",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral intermuscular septum of arm": {
+   "wikidata": "Q6495623",
+   "hu": null,
+   "de": "Septum intermusculare brachii laterale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral meniscus": {
+   "wikidata": "Q6495635",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral occipital artery": {
+   "wikidata": "Q66539762",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral occipitotemporal gyrus": {
+   "wikidata": "Q1464932",
+   "hu": null,
+   "de": "Gyrus fusiformis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral patellar retinaculum": {
+   "wikidata": "Q6495691",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral pectoral nerve": {
+   "wikidata": "Q2575284",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral plantar artery": {
+   "wikidata": "Q707450",
+   "hu": null,
+   "de": "Arteria plantaris lateralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lateral plantar nerve": {
+   "wikidata": "Q6495668",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lateral plantar veins": {
+   "wikidata": "Q123360302",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral pontine branches of basilar artery": {
+   "wikidata": "Q66569256",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral process of nasal septal cartilage": {
+   "wikidata": "Q6495642",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral pterygoid muscle": {
+   "wikidata": "Q977221",
+   "hu": "musculus pterygoideus lateralis",
+   "de": "Musculus pterygoideus lateralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lateral rectus muscle": {
+   "wikidata": "Q1051835",
+   "hu": "musculus rectus lateralis",
+   "de": "Musculus rectus lateralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral reticulospinal tract": {
+   "wikidata": "Q66572812",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral sacral veins": {
+   "wikidata": "Q6495699",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral segmental artery of right lung": {
+   "wikidata": "Q66563798",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral spinothalamic tract": {
+   "wikidata": "Q6495704",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral subtendinous bursa of gastrocnemius muscle": {
+   "wikidata": "Q66535498",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral talocalcaneal ligament": {
+   "wikidata": "Q9376071",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral tarsal artery": {
+   "wikidata": "Q6495719",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral temporomandibular ligament": {
+   "wikidata": "Q7698995",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lateral thoracic artery": {
+   "wikidata": "Q707624",
+   "hu": null,
+   "de": "Arteria thoracica lateralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral thoracic vein": {
+   "wikidata": "Q1311339",
+   "hu": null,
+   "de": "Vena thoracica lateralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lateral thyrohyoid ligament": {
+   "wikidata": "Q428090",
+   "hu": "ligamentum thyrohyoideus lateralis",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral vein of right lung": {
+   "wikidata": "Q131323017",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lateral ventricle": {
+   "wikidata": "Q1929623",
+   "hu": null,
+   "de": "Seitenventrikel",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Latissimus dorsi muscle": {
+   "wikidata": "Q283673",
+   "hu": null,
+   "de": "Musculus latissimus dorsi",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Left ascending lumbar vein": {
+   "wikidata": "Q136483795",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Left brachiocephalic vein": {
+   "wikidata": "Q136506868",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Left colic artery": {
+   "wikidata": "Q1816515",
+   "hu": null,
+   "de": "Arteria colica sinistra",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Left common carotid artery": {
+   "wikidata": "Q30126919",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Left coronary artery": {
+   "wikidata": "Q744391",
+   "hu": null,
+   "de": "linke Koronararterie",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Left gastric artery": {
+   "wikidata": "Q508792",
+   "hu": null,
+   "de": "Arteria gastrica sinistra",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Left gastro-omental vein": {
+   "wikidata": "Q6381103",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Left inferior pulmonary vein": {
+   "wikidata": "Q30126469",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Left pulmonary artery": {
+   "wikidata": "Q8205462",
+   "hu": null,
+   "de": "linke Lungenarterie",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Left renal artery": {
+   "wikidata": "Q66510775",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Left renal vein": {
+   "wikidata": "Q66509390",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Left subclavian artery": {
+   "wikidata": "Q30126941",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Left subclavian vein": {
+   "wikidata": "Q66501635",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Left subcostal vein": {
+   "wikidata": "Q136483447",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Left superior intercostal vein": {
+   "wikidata": "Q136558443",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Left superior pulmonary vein": {
+   "wikidata": "Q30126467",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Left testicular artery": {
+   "wikidata": "Q66510784",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Left testicular vein": {
+   "wikidata": "Q66509405",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lens": {
+   "wikidata": "Q146701",
+   "hu": "szemlencse",
+   "de": "Linse",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lentiform nucleus": {
+   "wikidata": "Q2414279",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Levator anguli oris": {
+   "wikidata": "Q913958",
+   "hu": "szájzugot felfelé húzó izom",
+   "de": "Musculus levator anguli oris",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Levator ani": {
+   "wikidata": "Q537123",
+   "hu": null,
+   "de": "Musculus levator ani",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Levator labii superioris": {
+   "wikidata": "Q932587",
+   "hu": "felsőajak-emelő izom",
+   "de": "Musculus levator labii superioris",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Levator nasolabialis": {
+   "wikidata": "Q301876",
+   "hu": "musculus levator labii superioris alaeque nasi",
+   "de": "Musculus levator labii superioris alaeque nasi",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Levator palpebrae superioris": {
+   "wikidata": "Q932908",
+   "hu": "musculus levator palpebrae superioris",
+   "de": "Musculus levator palpebrae superioris",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Levator scapulae": {
+   "wikidata": "Q755141",
+   "hu": "lapockaemelő izom",
+   "de": "Musculus levator scapulae",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Levatores breves costarum": {
+   "wikidata": "Q66569105",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Levatores longi costarum": {
+   "wikidata": "Q66569104",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ligament of head of femur": {
+   "wikidata": "Q6545844",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ligamenta flava": {
+   "wikidata": "Q1468271",
+   "hu": null,
+   "de": "Ligamentum flavum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Linea alba": {
+   "wikidata": "Q942068",
+   "hu": null,
+   "de": "Linea alba",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lingual gyrus": {
+   "wikidata": "Q3064632",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lingual nerve": {
+   "wikidata": "Q1817831",
+   "hu": null,
+   "de": "Nervus lingualis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lingual vein": {
+   "wikidata": "Q5306281",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lingula of cerebellum": {
+   "wikidata": "Q6554087",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Lingular vein of left lung": {
+   "wikidata": "Q66504115",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Long head of biceps brachii": {
+   "wikidata": "Q28792036",
+   "hu": null,
+   "de": "caput longum biceps brachii",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Long head of biceps femoris": {
+   "wikidata": "Q66536143",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Long head of triceps brachii": {
+   "wikidata": "Q28792063",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Long plantar ligament": {
+   "wikidata": "Q1704861",
+   "hu": null,
+   "de": "Ligamentum plantare longum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Long posterior ciliary arteries": {
+   "wikidata": "Q741750",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Long thoracic nerve": {
+   "wikidata": "Q1890743",
+   "hu": null,
+   "de": "Nervus thoracicus longus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Longissimus capitis muscle": {
+   "wikidata": "Q66514742",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Longissimus colli muscle": {
+   "wikidata": "Q66514739",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Longissimus thoracis muscle": {
+   "wikidata": "Q2012698",
+   "hu": null,
+   "de": "longissimus thoracis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Longus capitis muscle": {
+   "wikidata": "Q1055786",
+   "hu": "hosszú fejizom",
+   "de": "Musculus longus capitis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Longus colli muscle": {
+   "wikidata": "Q1055797",
+   "hu": "hosszú nyakizom",
+   "de": "Musculus longus colli",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lumbar arteries": {
+   "wikidata": "Q707334",
+   "hu": null,
+   "de": "Arteria lumbalis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lumbar branch of iliolumbar artery": {
+   "wikidata": "Q8960673",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lumbar veins": {
+   "wikidata": "Q4117097",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lumbrical muscles of foot": {
+   "wikidata": "Q44161",
+   "hu": null,
+   "de": "Musculi lumbricales pedis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Lumbrical muscles of hand": {
+   "wikidata": "Q1394547",
+   "hu": "musculi lumbricales manus",
+   "de": "Musculi lumbricales",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lunate bone": {
+   "wikidata": "Q13141",
+   "hu": "holdascsont",
+   "de": "Mondbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Lunate sulcus": {
+   "wikidata": "Q6703870",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Lunotriquetral interosseous ligament": {
+   "wikidata": "Q114167160",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Major alar cartilage": {
+   "wikidata": "Q5600832",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Malleus": {
+   "wikidata": "Q319636",
+   "hu": "kalapács",
+   "de": "Hammer",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Mamillary body": {
+   "wikidata": "Q499802",
+   "hu": null,
+   "de": "Corpus mamillare",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Mandible": {
+   "wikidata": "Q5283631",
+   "hu": "állkapocs",
+   "de": "Unterkiefer",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Manubrium of sternum": {
+   "wikidata": "Q2719344",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Marginal artery": {
+   "wikidata": "Q3621435",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Masseter": {
+   "wikidata": "Q725408",
+   "hu": "rágóizom",
+   "de": "Musculus masseter",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Masseteric fascia": {
+   "wikidata": "Q630581",
+   "hu": null,
+   "de": "Fascia masseterica",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Maxilla": {
+   "wikidata": "Q182895",
+   "hu": "felső állcsont",
+   "de": "Oberkiefer",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Maxillary artery": {
+   "wikidata": "Q498171",
+   "hu": "arteria maxillaris",
+   "de": "Arteria maxillaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Maxillary nerve": {
+   "wikidata": "Q1897537",
+   "hu": null,
+   "de": "Nervus maxillaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Maxillary veins": {
+   "wikidata": "Q3241280",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Medial antebrachial cutaneous nerve": {
+   "wikidata": "Q1278170",
+   "hu": null,
+   "de": "Nervus cutaneus antebrachii medialis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial basal segmental artery of left lung": {
+   "wikidata": "Q66504107",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial basal segmental artery of right lung": {
+   "wikidata": "Q66504091",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Medial brachial cutaneous nerve": {
+   "wikidata": "Q1978134",
+   "hu": null,
+   "de": "Nervus cutaneus brachii medialis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Medial circumflex femoral artery": {
+   "wikidata": "Q707096",
+   "hu": null,
+   "de": "Arteria circumflexa femoris medialis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial circumflex femoral veins": {
+   "wikidata": "Q66568787",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial crural cutaneous branches of saphenous nerve": {
+   "wikidata": "Q6806033",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial cuneiform bone": {
+   "wikidata": "Q1884889",
+   "hu": null,
+   "de": "inneres Keilbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial dorsal cutaneous nerve of foot": {
+   "wikidata": "Q16999361",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Medial femoral intermuscular septum": {
+   "wikidata": "Q6806057",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Medial geniculate body": {
+   "wikidata": "Q3694103",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Medial head of flexor hallucis brevis": {
+   "wikidata": "Q66536186",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial head of gastrocnemius": {
+   "wikidata": "Q66536176",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Medial head of triceps brachii": {
+   "wikidata": "Q66526969",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial intermuscular septum of arm": {
+   "wikidata": "Q6806058",
+   "hu": null,
+   "de": "Septum intermusculare brachii mediale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial meniscus": {
+   "wikidata": "Q6806071",
+   "hu": null,
+   "de": "Innenmeniskus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial occipital artery": {
+   "wikidata": "Q66539766",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial patellar retinaculum": {
+   "wikidata": "Q122168700",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial pectoral nerve": {
+   "wikidata": "Q1978103",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Medial plantar artery": {
+   "wikidata": "Q1134588",
+   "hu": null,
+   "de": "Arteria plantaris medialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Medial plantar nerve": {
+   "wikidata": "Q604987",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Medial plantar veins": {
+   "wikidata": "Q123360311",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial pontine branches of basilar artery": {
+   "wikidata": "Q66569252",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial pterygoid muscle": {
+   "wikidata": "Q643928",
+   "hu": "musculus pterygoideus medialis",
+   "de": "Musculus pterygoideus medialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Medial rectus muscle": {
+   "wikidata": "Q1090541",
+   "hu": "musculus rectus medialis",
+   "de": "Musculus rectus medialis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial reticulospinal tract": {
+   "wikidata": "Q66572808",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial segmental artery of right lung": {
+   "wikidata": "Q66563797",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Medial subtendinous bursa of gastrocnemius muscle": {
+   "wikidata": "Q66535502",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial sural cutaneous nerve": {
+   "wikidata": "Q6806087",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial talocalcaneal ligament": {
+   "wikidata": "Q6806089",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medial vein of right lung": {
+   "wikidata": "Q131323054",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Median antebrachial vein": {
+   "wikidata": "Q3324292",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Median cricothyroid ligament": {
+   "wikidata": "Q6806113",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Median cubital vein": {
+   "wikidata": "Q3320949",
+   "hu": null,
+   "de": "mittlere Ellbogenvene",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Median nerve": {
+   "wikidata": "Q1364876",
+   "hu": null,
+   "de": "Mittelarmnerv",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Median sacral artery": {
+   "wikidata": "Q707535",
+   "hu": null,
+   "de": "Arteria sacralis mediana",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Median thyrohyoid ligament": {
+   "wikidata": "Q966616",
+   "hu": "ligamentum thyrohyoideus medialis",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Medulla oblongata": {
+   "wikidata": "Q189033",
+   "hu": "nyúltvelő",
+   "de": "Medulla oblongata",
+   "via": [
+    "english"
+   ]
+  },
+  "Meningeal branch of maxillary nerve": {
+   "wikidata": "Q6841671",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Meniscopatellar ligament": {
+   "wikidata": "Q120076397",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Mental branch of inferior alveolar artery": {
+   "wikidata": "Q2919618",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Mental nerve": {
+   "wikidata": "Q3338329",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Mentalis muscle": {
+   "wikidata": "Q1051688",
+   "hu": "állcsúcsi izom",
+   "de": "Musculus mentalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Metatarsal interosseous ligaments": {
+   "wikidata": "Q6056234",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Midbrain": {
+   "wikidata": "Q185080",
+   "hu": "középagy",
+   "de": "Mittelhirn",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Middle cardiac vein": {
+   "wikidata": "Q6841662",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle cells of ethmoid bone": {
+   "wikidata": "Q66589298",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle colic artery": {
+   "wikidata": "Q707115",
+   "hu": null,
+   "de": "Arteria colica media",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Middle colic vein": {
+   "wikidata": "Q4115373",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Middle collateral artery": {
+   "wikidata": "Q3323498",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Middle frontal gyrus": {
+   "wikidata": "Q3063753",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle genicular artery": {
+   "wikidata": "Q707208",
+   "hu": null,
+   "de": "Arteria genus media",
+   "via": [
+    "english"
+   ]
+  },
+  "Middle glenohumeral ligament": {
+   "wikidata": "Q66525315",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle layer of thoracolumbar fascia": {
+   "wikidata": "Q66516401",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle lobar artery of right lung": {
+   "wikidata": "Q66563799",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle meningeal artery": {
+   "wikidata": "Q500563",
+   "hu": null,
+   "de": "Arteria meningea media",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Middle pharyngeal constrictor": {
+   "wikidata": "Q254855",
+   "hu": "középső garat-összeszorító izom",
+   "de": "Musculus constrictor pharyngis medius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle temporal gyrus": {
+   "wikidata": "Q5407200",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Middle trunk of brachial plexus": {
+   "wikidata": "Q66561545",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Motor root of trigeminal nerve": {
+   "wikidata": "Q66542837",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Multifidus colli muscle": {
+   "wikidata": "Q66514829",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Multifidus lumborum muscle": {
+   "wikidata": "Q66514827",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Multifidus thoracis muscle": {
+   "wikidata": "Q66514828",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Muscular branches of axillary nerve": {
+   "wikidata": "Q114939430",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Muscular branches of median nerve": {
+   "wikidata": "Q66535279",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Muscular branches of radial nerve": {
+   "wikidata": "Q6940379",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Muscular branches of ulnar nerve": {
+   "wikidata": "Q6940380",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Musculocutaneous nerve": {
+   "wikidata": "Q1758126",
+   "hu": null,
+   "de": "Nervus musculocutaneus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Musculophrenic artery": {
+   "wikidata": "Q664446",
+   "hu": null,
+   "de": "Arteria musculophrenica",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Musculophrenic veins": {
+   "wikidata": "Q66568748",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Mylohyoid branch of inferior alveolar artery": {
+   "wikidata": "Q6947745",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Mylohyoid muscle": {
+   "wikidata": "Q927901",
+   "hu": "áll-nyelvcsonti izom",
+   "de": "Musculus mylohyoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nasal bone": {
+   "wikidata": "Q38155",
+   "hu": "orrcsont",
+   "de": "Nasenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nasal septal cartilage": {
+   "wikidata": "Q3482204",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Nasalis muscle": {
+   "wikidata": "Q597112",
+   "hu": "orrizom",
+   "de": "Musculus nasalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nasolacrimal duct": {
+   "wikidata": "Q526920",
+   "hu": "könnycsatorna",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Navicular bone": {
+   "wikidata": "Q958194",
+   "hu": null,
+   "de": "Os naviculare",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nerve to mylohyoid muscle": {
+   "wikidata": "Q6947748",
+   "hu": "nervus mylohyoideus",
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nerve to piriformis muscle": {
+   "wikidata": "Q286437",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nerve to quadratus femoris muscle": {
+   "wikidata": "Q597400",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ninth rib": {
+   "wikidata": "Q51094520",
+   "hu": null,
+   "de": "neunte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Nodule of vermis": {
+   "wikidata": "Q17096920",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Nuchal ligament": {
+   "wikidata": "Q519216",
+   "hu": null,
+   "de": "Nackenband",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Nucleus ambiguus": {
+   "wikidata": "Q1003805",
+   "hu": null,
+   "de": "Nucleus ambiguus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Nucleus of abducens nerve": {
+   "wikidata": "Q2004202",
+   "hu": null,
+   "de": "Nucleus nervi abducentis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Nucleus of accessory nerve": {
+   "wikidata": "Q66590483",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Nucleus of hypoglossal nerve": {
+   "wikidata": "Q666219",
+   "hu": null,
+   "de": "Nucleus nervi hypoglossi",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Nucleus of oculomotor nerve": {
+   "wikidata": "Q950852",
+   "hu": null,
+   "de": "Nucleus nervi oculomotorii",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Nucleus of trochlear nerve": {
+   "wikidata": "Q2004211",
+   "hu": null,
+   "de": "Nucleus nervi trochlearis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Nucleus proprius": {
+   "wikidata": "Q7068288",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Oblique cord": {
+   "wikidata": "Q861058",
+   "hu": "Chorda obliqua membranae interosseae antebrachii",
+   "de": "Chorda obliqua",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Oblique head of adductor hallucis": {
+   "wikidata": "Q66536227",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Oblique head of adductor pollicis": {
+   "wikidata": "Q66536311",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Oblique part of cricothyroid muscle": {
+   "wikidata": "Q66536622",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Oblique popliteal ligament": {
+   "wikidata": "Q7075178",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Obliquus inferior capitis muscle": {
+   "wikidata": "Q1051430",
+   "hu": "musculus obliquus capitis inferior",
+   "de": "Musculus obliquus capitis inferior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Obliquus superior capitis muscle": {
+   "wikidata": "Q1051407",
+   "hu": "musculus obliquus capitis superior",
+   "de": "Musculus obliquus capitis superior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Obturator artery": {
+   "wikidata": "Q707393",
+   "hu": null,
+   "de": "Arteria obturatoria",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Obturator externus": {
+   "wikidata": "Q1756762",
+   "hu": null,
+   "de": "Musculus obturator externus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Obturator internus": {
+   "wikidata": "Q1500758",
+   "hu": null,
+   "de": "Musculus obturator internus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Obturator membrane": {
+   "wikidata": "Q3305334",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Obturator nerve": {
+   "wikidata": "Q1978161",
+   "hu": null,
+   "de": "Nervus obturatorius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Occipital artery": {
+   "wikidata": "Q491726",
+   "hu": null,
+   "de": "Arteria occipitalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Occipital bone": {
+   "wikidata": "Q16317",
+   "hu": "nyakszirtcsont",
+   "de": "Hinterhauptbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Occipital pole": {
+   "wikidata": "Q11488663",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Occipital sinus": {
+   "wikidata": "Q10369487",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Occipital vein": {
+   "wikidata": "Q7075707",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Occipitalis muscle": {
+   "wikidata": "Q339861",
+   "hu": "nyakszirti izom",
+   "de": "Musculus occipitalis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Olfactory sulcus": {
+   "wikidata": "Q3483915",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Omohyoid muscle": {
+   "wikidata": "Q1049279",
+   "hu": "lapocka-nyelvcsonti izom",
+   "de": "Musculus omohyoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Opercular part of inferior frontal gyrus": {
+   "wikidata": "Q66558151",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ophthalmic artery": {
+   "wikidata": "Q497574",
+   "hu": null,
+   "de": "Arteria ophthalmica",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ophthalmic nerve": {
+   "wikidata": "Q1420571",
+   "hu": null,
+   "de": "Nervus ophthalmicus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Opponens digiti minimi muscle of hand": {
+   "wikidata": "Q1064676",
+   "hu": "kisujjat szembefordító izom",
+   "de": "Musculus opponens digiti minimi manus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Opponens pollicis muscle": {
+   "wikidata": "Q931622",
+   "hu": "hüvelykujj-szembefordító izom",
+   "de": "Musculus opponens pollicis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Optic chiasm": {
+   "wikidata": "Q1071710",
+   "hu": "látóideg-kereszteződés",
+   "de": "Chiasma opticum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Optic tract": {
+   "wikidata": "Q1079316",
+   "hu": "látóköteg",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Orbicularis oris muscle": {
+   "wikidata": "Q302950",
+   "hu": "száj körüli izom",
+   "de": "Musculus orbicularis oris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Orbital gyri": {
+   "wikidata": "Q5494792",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Orbital part of  inferior frontal gyrus": {
+   "wikidata": "Q7100081",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Orbital part of orbicularis oculi": {
+   "wikidata": "Q66536726",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Orbitofrontal branches of anterior cerebral artery": {
+   "wikidata": "Q66539473",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palatine bone": {
+   "wikidata": "Q237632",
+   "hu": "szájpadcsont",
+   "de": "Gaumenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palatopharyngeus muscle": {
+   "wikidata": "Q932609",
+   "hu": "garatszájpadizom",
+   "de": "Musculus palatopharyngeus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palmar aponeurosis": {
+   "wikidata": "Q1524395",
+   "hu": null,
+   "de": "Palmaraponeurose",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palmar branch of median nerve": {
+   "wikidata": "Q7128135",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palmar branch of ulnar nerve": {
+   "wikidata": "Q7128136",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palmar capitohamate ligament": {
+   "wikidata": "Q114159979",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar carpal branch of radial artery": {
+   "wikidata": "Q7128138",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar carpometacarpal ligaments": {
+   "wikidata": "Q7128142",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar digital veins": {
+   "wikidata": "Q3324276",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palmar interossei muscles": {
+   "wikidata": "Q2608511",
+   "hu": null,
+   "de": "Musculi interossei palmares",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palmar interphalangeal ligaments": {
+   "wikidata": "Q7128149",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Palmar lunotriquetral ligament": {
+   "wikidata": "Q114160521",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar metacarpal arteries": {
+   "wikidata": "Q7128148",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar metacarpal ligaments": {
+   "wikidata": "Q66569167",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Palmar radio-ulnar ligament": {
+   "wikidata": "Q7128152",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar scaphotriquetral ligament": {
+   "wikidata": "Q114136881",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmar trapezoideocapitate ligament": {
+   "wikidata": "Q114160062",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Palmaris longus muscle": {
+   "wikidata": "Q672854",
+   "hu": "hosszú tenyérizom",
+   "de": "Musculus palmaris longus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Palpebral part of orbicularis oculi": {
+   "wikidata": "Q66536729",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Paracentral sulcus": {
+   "wikidata": "Q5976158",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Parietal bone": {
+   "wikidata": "Q16298",
+   "hu": "falcsont",
+   "de": "Scheitelbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Parietal branches of middle cerebral artery": {
+   "wikidata": "Q135984134",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Parieto-occipital artery": {
+   "wikidata": "Q136206423",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Parieto-occipital sulcus": {
+   "wikidata": "Q1139567",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Patella": {
+   "wikidata": "Q229081",
+   "hu": null,
+   "de": "Kniescheibe",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Patellar ligament": {
+   "wikidata": "Q1172095",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pectineus muscle": {
+   "wikidata": "Q1501677",
+   "hu": null,
+   "de": "Musculus pectineus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pectoral branches of thoraco-acromial artery": {
+   "wikidata": "Q66515005",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Pectoral fascia": {
+   "wikidata": "Q7158924",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pectoralis major muscle": {
+   "wikidata": "Q532798",
+   "hu": "nagy mellizom",
+   "de": "pectoralis major",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pectoralis minor muscle": {
+   "wikidata": "Q757083",
+   "hu": "kis mellizom",
+   "de": "Musculus pectoralis minor",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Peduncle of flocculus": {
+   "wikidata": "Q66570077",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Perforating branches of plantar metatarsal arteries": {
+   "wikidata": "Q66569297",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Perforating femoral arteries": {
+   "wikidata": "Q7168172",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Perforating veins": {
+   "wikidata": "Q2512709",
+   "hu": null,
+   "de": "Vena perforans",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pericallosal artery": {
+   "wikidata": "Q66539483",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Piriformis fascia": {
+   "wikidata": "Q7197989",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Piriformis muscle": {
+   "wikidata": "Q1144893",
+   "hu": null,
+   "de": "Musculus piriformis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pisiform bone": {
+   "wikidata": "Q691942",
+   "hu": "borsócsont",
+   "de": "Erbsenbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pisohamate ligament": {
+   "wikidata": "Q1130003",
+   "hu": "Ligamentum pisohamatum",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pisometacarpal ligament": {
+   "wikidata": "Q1130004",
+   "hu": "Ligamentum pisometacarpeum",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pisotriquetral ligament": {
+   "wikidata": "Q114154613",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar aponeurosis": {
+   "wikidata": "Q383204",
+   "hu": null,
+   "de": "Aponeurosis plantaris",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Plantar arch": {
+   "wikidata": "Q39075360",
+   "hu": null,
+   "de": "Arcus plantaris profundus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar calcaneocuboid ligament": {
+   "wikidata": "Q7201578",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar calcaneonavicular ligament": {
+   "wikidata": "Q1542293",
+   "hu": null,
+   "de": "Ligamentum calcaneonaviculare plantare",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar cuboideonavicular ligament": {
+   "wikidata": "Q7201580",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar cuneocuboid ligament": {
+   "wikidata": "Q7201581",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar cuneonavicular ligaments": {
+   "wikidata": "Q16920093",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar digital veins": {
+   "wikidata": "Q29405",
+   "hu": null,
+   "de": "Plantar-digitale Venen",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Plantar intercuneiform ligaments": {
+   "wikidata": "Q7201584",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar interossei muscles": {
+   "wikidata": "Q2360339",
+   "hu": null,
+   "de": "Musculi interossei (Fuß)",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Plantar interphalangeal ligaments": {
+   "wikidata": "Q121064639",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar metatarsal arteries": {
+   "wikidata": "Q7201587",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar metatarsal ligaments": {
+   "wikidata": "Q7201586",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar metatarsal veins": {
+   "wikidata": "Q7201590",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar metatarsophalangeal ligaments": {
+   "wikidata": "Q121029997",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Plantar tarsometatarsal ligaments": {
+   "wikidata": "Q7201591",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar tendon sheath of fibularis longus muscle": {
+   "wikidata": "Q66535565",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Plantar venous arch": {
+   "wikidata": "Q7201592",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Plantaris muscle": {
+   "wikidata": "Q526239",
+   "hu": null,
+   "de": "Musculus plantaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Platysma": {
+   "wikidata": "Q841422",
+   "hu": "nyakbőrizom",
+   "de": "Platysma",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pons": {
+   "wikidata": "Q192570",
+   "hu": "híd",
+   "de": "Pons",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Popliteal artery": {
+   "wikidata": "Q707468",
+   "hu": null,
+   "de": "Arteria poplitea",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Popliteal fascia": {
+   "wikidata": "Q122912540",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Popliteal vein": {
+   "wikidata": "Q2746562",
+   "hu": null,
+   "de": "Vena poplitea",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Popliteofibular ligament": {
+   "wikidata": "Q120081228",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Popliteus muscle": {
+   "wikidata": "Q1308051",
+   "hu": null,
+   "de": "Musculus popliteus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Postcentral arterial branch": {
+   "wikidata": "Q136039309",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Postcentral gyrus": {
+   "wikidata": "Q956517",
+   "hu": null,
+   "de": "Gyrus postcentralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Postcentral sulcus": {
+   "wikidata": "Q3483918",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior antebrachial cutaneous nerve": {
+   "wikidata": "Q7234190",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior auricular vein": {
+   "wikidata": "Q588981",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior basal segmental artery of left lung": {
+   "wikidata": "Q66504110",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior basal segmental artery of right lung": {
+   "wikidata": "Q66504095",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior belly of digastric muscle": {
+   "wikidata": "Q66536459",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior branch of medial antebrachial cutaneous nerve": {
+   "wikidata": "Q114857466",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior branch of obturator nerve": {
+   "wikidata": "Q7234170",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior branch of renal artery": {
+   "wikidata": "Q66568452",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior cells of ethmoid bone": {
+   "wikidata": "Q66589299",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior cerebral artery": {
+   "wikidata": "Q492482",
+   "hu": null,
+   "de": "Arteria cerebri posterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior circumflex humeral artery": {
+   "wikidata": "Q707104",
+   "hu": null,
+   "de": "Arteria circumflexa humeri posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior circumflex humeral vein": {
+   "wikidata": "Q66569045",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior commissure": {
+   "wikidata": "Q915729",
+   "hu": null,
+   "de": "Commissura posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior communicating artery": {
+   "wikidata": "Q185438",
+   "hu": null,
+   "de": "Arteria communicans posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior cord of brachial plexus": {
+   "wikidata": "Q597179",
+   "hu": null,
+   "de": "Fasciculus posterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior crico-arytenoid muscle": {
+   "wikidata": "Q379007",
+   "hu": "musculus cricoarytenoideus posterior",
+   "de": "Musculus cricoarytaenoideus posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior cruciate ligament": {
+   "wikidata": "Q735353",
+   "hu": null,
+   "de": "hinteres Kreuzband",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior deep temporal artery": {
+   "wikidata": "Q38221597",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior division of inferior trunk of brachial plexus": {
+   "wikidata": "Q66561672",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior division of internal iliac artery": {
+   "wikidata": "Q134571612",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior division of middle trunk of brachial plexus": {
+   "wikidata": "Q66561671",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior division of retromandibular vein": {
+   "wikidata": "Q137516253",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior division of superior trunk of brachial plexus": {
+   "wikidata": "Q66561670",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior ethmoidal artery": {
+   "wikidata": "Q3278179",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior femoral cutaneous nerve": {
+   "wikidata": "Q1477923",
+   "hu": null,
+   "de": "Nervus cutaneus femoris posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior horn of spinal cord": {
+   "wikidata": "Q7234198",
+   "hu": "hátulsó szarv",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior inferior cerebellar artery": {
+   "wikidata": "Q488727",
+   "hu": null,
+   "de": "Arteria inferior posterior cerebelli",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior intercavernous sinus": {
+   "wikidata": "Q12779273",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior intercostal arteries": {
+   "wikidata": "Q707295",
+   "hu": null,
+   "de": "Arteria intercostalis posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior intermuscular septum of leg": {
+   "wikidata": "Q7234188",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior interosseous artery": {
+   "wikidata": "Q3391876",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior interosseous nerve of forearm": {
+   "wikidata": "Q7234204",
+   "hu": null,
+   "de": "Nervus interosseus antebrachii posterior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior layer of thoracolumbar fascia": {
+   "wikidata": "Q66516400",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior ligament of fibular head": {
+   "wikidata": "Q7234218",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior longitudinal ligament": {
+   "wikidata": "Q1824647",
+   "hu": null,
+   "de": "Ligamentum longitudinale posterius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior nucleus of vagus nerve": {
+   "wikidata": "Q5298797",
+   "hu": null,
+   "de": "Nucleus dorsalis nervi vagi",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior parietal artery": {
+   "wikidata": "Q66539629",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Posterior quadrangular lobule": {
+   "wikidata": "Q66599587",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Posterior root of posterior femoral cutaneous nerve": {
+   "wikidata": "Q116475097",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior root of spinal nerve": {
+   "wikidata": "Q869318",
+   "hu": "hátsó gyökér",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior sacro-iliac ligament": {
+   "wikidata": "Q3238429",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior segment of eyeball": {
+   "wikidata": "Q2359854",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Posterior segmental artery of left lung": {
+   "wikidata": "Q66504098",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterior segmental artery of right lung": {
+   "wikidata": "Q66504086",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior septal branches of sphenopalatine artery": {
+   "wikidata": "Q7234238",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior sternoclavicular ligament": {
+   "wikidata": "Q7234242",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior superior alveolar artery": {
+   "wikidata": "Q485350",
+   "hu": null,
+   "de": "Arteria alveolaris superior posterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior talocalcaneal ligament": {
+   "wikidata": "Q7234244",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior talofibular ligament": {
+   "wikidata": "Q7234249",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior tibial artery": {
+   "wikidata": "Q707659",
+   "hu": null,
+   "de": "Arteria tibialis posterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Posterior tibiofibular ligament": {
+   "wikidata": "Q7234253",
+   "hu": null,
+   "de": "Ligamentum tibiofibulare posterius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior tibiotalar ligament": {
+   "wikidata": "Q66533957",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Posterior vein of right lung": {
+   "wikidata": "Q66508103",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Posterolateral tract": {
+   "wikidata": "Q7234269",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Precentral gyrus": {
+   "wikidata": "Q5272263",
+   "hu": null,
+   "de": "Gyrus praecentralis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Precuneus": {
+   "wikidata": "Q1632835",
+   "hu": null,
+   "de": "Precuneus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Prefrontal artery": {
+   "wikidata": "Q66539578",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Procerus muscle": {
+   "wikidata": "Q636624",
+   "hu": "musculus pyramidalis nasi",
+   "de": "Musculus procerus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pronator quadratus": {
+   "wikidata": "Q840572",
+   "hu": "négyszögű csavaró izom",
+   "de": "Musculus pronator quadratus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Pronator teres": {
+   "wikidata": "Q828232",
+   "hu": "hengeres borintóizom",
+   "de": "Musculus pronator teres",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Proper hepatic artery": {
+   "wikidata": "Q542166",
+   "hu": null,
+   "de": "Arteria hepatica propria",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Proper palmar digital arteries": {
+   "wikidata": "Q6577825",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Proper palmar digital branches of median nerve": {
+   "wikidata": "Q7250180",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Proper palmar digital branches of ulnar nerve": {
+   "wikidata": "Q7250182",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Proper plantar digital arteries": {
+   "wikidata": "Q545208",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Proper plantar digital branches of lateral plantar nerve": {
+   "wikidata": "Q16979748",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Proper plantar digital branches of medial plantar nerve": {
+   "wikidata": "Q7250183",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Psoas major": {
+   "wikidata": "Q1550323",
+   "hu": null,
+   "de": "Musculus psoas major",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Pterygospinous ligament": {
+   "wikidata": "Q7257010",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pubic symphysis": {
+   "wikidata": "Q1571074",
+   "hu": null,
+   "de": "Schambeinfuge",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pubo-analis muscle": {
+   "wikidata": "Q842547",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pubococcygeus muscle": {
+   "wikidata": "Q1084757",
+   "hu": "musculus pubococcygeus",
+   "de": "Musculus pubococcygeus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Pubofemoral ligament": {
+   "wikidata": "Q7258155",
+   "hu": null,
+   "de": "Ligamentum pubofemorale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pudendal nerve": {
+   "wikidata": "Q1753038",
+   "hu": null,
+   "de": "Nervus pudendus",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Putamen": {
+   "wikidata": "Q550934",
+   "hu": null,
+   "de": "Putamen",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Pyramid of medulla oblongata": {
+   "wikidata": "Q949769",
+   "hu": "nyúltvelői piramis",
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Pyramidalis muscle": {
+   "wikidata": "Q1756826",
+   "hu": null,
+   "de": "Musculus pyramidalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Quadrangular membrane": {
+   "wikidata": "Q7268317",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Quadrate ligament": {
+   "wikidata": "Q7268346",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Quadratus femoris muscle": {
+   "wikidata": "Q1428240",
+   "hu": null,
+   "de": "Musculus quadratus femoris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Quadratus lumborum muscle": {
+   "wikidata": "Q1426052",
+   "hu": null,
+   "de": "Musculus quadratus lumborum",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Quadratus plantae muscle": {
+   "wikidata": "Q1665277",
+   "hu": null,
+   "de": "Musculus quadratus plantae",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Quadriceps femoris muscle": {
+   "wikidata": "Q504536",
+   "hu": "négyfejű combizom",
+   "de": "Musculus quadriceps femoris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Radial artery": {
+   "wikidata": "Q662857",
+   "hu": "arteria radialis",
+   "de": "Arteria radialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Radial collateral artery": {
+   "wikidata": "Q3323540",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Radial collateral ligament": {
+   "wikidata": "Q7280266",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Radial collateral ligament of wrist joint": {
+   "wikidata": "Q253168",
+   "hu": "ligamentum collaterale carpi radiale",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Radial head of flexor digitorum superficialis": {
+   "wikidata": "Q66527746",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Radial nerve": {
+   "wikidata": "Q1365325",
+   "hu": null,
+   "de": "Speichennerv",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Radial veins": {
+   "wikidata": "Q3316775",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Radiate carpal ligament": {
+   "wikidata": "Q7280325",
+   "hu": null,
+   "de": "Ligamentum carpi radiatum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Radiate ligament of head of rib": {
+   "wikidata": "Q7280322",
+   "hu": null,
+   "de": "Ligamentum capitis costae radiatum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Radiocapitate ligament": {
+   "wikidata": "Q114049455",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Radioscaphocapitate ligament": {
+   "wikidata": "Q114048790",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Radius": {
+   "wikidata": "Q178492",
+   "hu": "orsócsont",
+   "de": "Radius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Rectus abdominis muscle": {
+   "wikidata": "Q275150",
+   "hu": "egyenes hasizom",
+   "de": "Musculus rectus abdominis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Rectus anterior capitis muscle": {
+   "wikidata": "Q371122",
+   "hu": "egyenes fejizom",
+   "de": "Musculus rectus capitis anterior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Rectus femoris muscle": {
+   "wikidata": "Q1633822",
+   "hu": null,
+   "de": "Musculus rectus femoris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Rectus lateralis capitis muscle": {
+   "wikidata": "Q579641",
+   "hu": null,
+   "de": "Musculus rectus capitis lateralis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Rectus posterior major capitis muscle": {
+   "wikidata": "Q762258",
+   "hu": "musculus rectus capitis posterior major",
+   "de": "Musculus rectus capitis posterior major",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Rectus posterior minor capitis muscle": {
+   "wikidata": "Q764361",
+   "hu": "musculus rectus capitis posterior minor",
+   "de": "Musculus rectus capitis posterior minor",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Recurrent interosseous artery": {
+   "wikidata": "Q6056249",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Red nucleus": {
+   "wikidata": "Q1751717",
+   "hu": null,
+   "de": "Nucleus ruber",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Retina": {
+   "wikidata": "Q169342",
+   "hu": "recehártya",
+   "de": "Netzhaut",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Retromandibular vein": {
+   "wikidata": "Q6125961",
+   "hu": null,
+   "de": "Vena retromandibularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Rhomboid major muscle": {
+   "wikidata": "Q617389",
+   "hu": "nagy rombuszizom",
+   "de": "Musculus rhomboideus major",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Rhomboid minor muscle": {
+   "wikidata": "Q901538",
+   "hu": "kis rombuszizom",
+   "de": "Musculus rhomboideus minor",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Right ascending lumbar vein": {
+   "wikidata": "Q136483694",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Right brachiocephalic vein": {
+   "wikidata": "Q136506953",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Right colic artery": {
+   "wikidata": "Q707113",
+   "hu": null,
+   "de": "Arteria colica dextra",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Right colic vein": {
+   "wikidata": "Q4115294",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Right common carotid artery": {
+   "wikidata": "Q30126918",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right coronary artery": {
+   "wikidata": "Q429285",
+   "hu": null,
+   "de": "rechte Koronararterie",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Right gastro-omental vein": {
+   "wikidata": "Q4115374",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Right inferior pulmonary vein": {
+   "wikidata": "Q30126466",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right inferolateral branch of right coronary artery": {
+   "wikidata": "Q66574505",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right pulmonary artery": {
+   "wikidata": "Q2917413",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Right renal artery": {
+   "wikidata": "Q66510773",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Right renal vein": {
+   "wikidata": "Q66509389",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right subclavian artery": {
+   "wikidata": "Q30126940",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right subclavian vein": {
+   "wikidata": "Q66500714",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Right subcostal vein": {
+   "wikidata": "Q136483446",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Right superior intercostal vein": {
+   "wikidata": "Q66501742",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right superior phrenic vein": {
+   "wikidata": "Q136483129",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right superior pulmonary vein": {
+   "wikidata": "Q30126465",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Right testicular artery": {
+   "wikidata": "Q66510782",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Right testicular vein": {
+   "wikidata": "Q66509399",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Risorius muscle": {
+   "wikidata": "Q841536",
+   "hu": "nevetőizom",
+   "de": "Musculus risorius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Roots of brachial plexus": {
+   "wikidata": "Q66514037",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Rotatores": {
+   "wikidata": "Q838638",
+   "hu": null,
+   "de": "Musculi rotatores",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Rubrospinal tract": {
+   "wikidata": "Q619284",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Sacrococcygeal symphysis": {
+   "wikidata": "Q3624376",
+   "hu": null,
+   "de": "Kreuzbein-Steißbein-Gelenk",
+   "via": [
+    "english"
+   ]
+  },
+  "Sacrospinous ligament": {
+   "wikidata": "Q2750165",
+   "hu": null,
+   "de": "Ligamentum sacrospinale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sacrotuberous ligament": {
+   "wikidata": "Q1575134",
+   "hu": null,
+   "de": "Ligamentum sacrotuberale",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sacrum": {
+   "wikidata": "Q233316",
+   "hu": "keresztcsont",
+   "de": "Kreuzbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Saphenous nerve": {
+   "wikidata": "Q1978117",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sartorius muscle": {
+   "wikidata": "Q740337",
+   "hu": "szabóizom",
+   "de": "Musculus sartorius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Scalenus anterior muscle": {
+   "wikidata": "Q914148",
+   "hu": "elülső ferde nyakizom",
+   "de": "Musculus scalenus anterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Scalenus medius muscle": {
+   "wikidata": "Q1088115",
+   "hu": "középső ferde nyakizom",
+   "de": "Musculus scalenus medius",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Scalenus posterior muscle": {
+   "wikidata": "Q955110",
+   "hu": "hátulsó ferde nyakizom",
+   "de": "Musculus scalenus posterior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Scaphocapitate ligament": {
+   "wikidata": "Q114136637",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Scaphoid bone": {
+   "wikidata": "Q13143",
+   "hu": "sajkacsont",
+   "de": "Os scaphoideum",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Scapholunate interosseous ligament": {
+   "wikidata": "Q1130012",
+   "hu": "Ligamentum scapholunatum interossealis",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Scaphotrapeziotrapezoidal ligament": {
+   "wikidata": "Q114135363",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Scapula": {
+   "wikidata": "Q16336",
+   "hu": "lapocka",
+   "de": "Schulterblatt",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Scapular spinal part of deltoid muscle": {
+   "wikidata": "Q66524648",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sciatic bursa of gluteus maximus muscle": {
+   "wikidata": "Q66535517",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sciatic bursa of obturator internus": {
+   "wikidata": "Q66535521",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sciatic nerve": {
+   "wikidata": "Q307869",
+   "hu": "ülőideg",
+   "de": "Ischiasnerv",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sclera": {
+   "wikidata": "Q193107",
+   "hu": "ínhártya",
+   "de": "Sclera",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Second metacarpal bone": {
+   "wikidata": "Q724555",
+   "hu": "II. kézközépcsont",
+   "de": "zweiter Mittelhandknochen",
+   "via": [
+    "english"
+   ]
+  },
+  "Second metatarsal bone": {
+   "wikidata": "Q7443737",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Second posterior intercostal artery": {
+   "wikidata": "Q66499563",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Second rib": {
+   "wikidata": "Q12068630",
+   "hu": null,
+   "de": "zweite Rippe",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Semimembranosus bursa": {
+   "wikidata": "Q123054224",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Semimembranosus muscle": {
+   "wikidata": "Q1270633",
+   "hu": null,
+   "de": "Musculus semimembranosus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Semispinalis colli muscle": {
+   "wikidata": "Q225308",
+   "hu": "musculus semispinalis cervicis",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Semispinalis thoracis muscle": {
+   "wikidata": "Q2799932",
+   "hu": "musculus semispinalis dorsi",
+   "de": "semispinalis thoracis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Semitendinosus muscle": {
+   "wikidata": "Q1163035",
+   "hu": null,
+   "de": "Musculus semitendinosus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sensory root of trigeminal nerve": {
+   "wikidata": "Q66542836",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Septal branches of anterior interventricular artery": {
+   "wikidata": "Q66569382",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Septal branches of posterior ethmoidal artery": {
+   "wikidata": "Q135913877",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Septal nuclei": {
+   "wikidata": "Q7452044",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Septum pellucidum": {
+   "wikidata": "Q1514754",
+   "hu": null,
+   "de": "Septum pellucidum",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Serratus anterior muscle": {
+   "wikidata": "Q743294",
+   "hu": "elülső fűrészizom",
+   "de": "Musculus serratus anterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Serratus posterior inferior muscle": {
+   "wikidata": "Q920567",
+   "hu": "musculus serratus posterior inferior",
+   "de": "Musculus serratus posterior inferior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Serratus posterior superior muscle": {
+   "wikidata": "Q1085940",
+   "hu": "musculus serratus posterior superior",
+   "de": "Musculus serratus posterior superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Seventh rib": {
+   "wikidata": "Q51079017",
+   "hu": null,
+   "de": "siebte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Short head of biceps brachii": {
+   "wikidata": "Q28792038",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Short head of biceps femoris": {
+   "wikidata": "Q66536147",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Short posterior ciliary arteries": {
+   "wikidata": "Q7502066",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sigmoid sinus": {
+   "wikidata": "Q9292294",
+   "hu": null,
+   "de": "Sinus sigmoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sigmoid veins": {
+   "wikidata": "Q66568792",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sinus of frontal bone": {
+   "wikidata": "Q123745089",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sinus of sphenoid bone": {
+   "wikidata": "Q123821051",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sixth rib": {
+   "wikidata": "Q51078161",
+   "hu": null,
+   "de": "sechste Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Small saphenous vein": {
+   "wikidata": "Q2736974",
+   "hu": null,
+   "de": "kleine Rosenader",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Soleus muscle": {
+   "wikidata": "Q1954164",
+   "hu": null,
+   "de": "Musculus soleus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sphenoid bone": {
+   "wikidata": "Q16321",
+   "hu": "ékcsont",
+   "de": "Keilbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sphenomandibular ligament": {
+   "wikidata": "Q7576652",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Spinal branch of iliolumbar artery": {
+   "wikidata": "Q66514385",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Spinal dura": {
+   "wikidata": "Q66569063",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Spinal ganglion": {
+   "wikidata": "Q1395415",
+   "hu": "csigolya közti dúc",
+   "de": "Spinalganglion",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Spinal reticular process": {
+   "wikidata": "Q66571397",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Spinalis capitis muscle": {
+   "wikidata": "Q1080227",
+   "hu": "Musculus spinalis capitis",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Spinalis colli muscle": {
+   "wikidata": "Q130292882",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Spinalis thoracis muscle": {
+   "wikidata": "Q66514780",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Spinotectal tract": {
+   "wikidata": "Q7577652",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Splenic artery": {
+   "wikidata": "Q707326",
+   "hu": null,
+   "de": "Arteria splenica",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Splenic vein": {
+   "wikidata": "Q3091615",
+   "hu": null,
+   "de": "Vena splenica",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Splenius capitis muscle": {
+   "wikidata": "Q1088126",
+   "hu": "musculus splenius capitis",
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Splenius colli muscle": {
+   "wikidata": "Q1076423",
+   "hu": "musculus splenius cervicis",
+   "de": "Musculus splenius cervicis",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Stapes": {
+   "wikidata": "Q499897",
+   "hu": "kengyel",
+   "de": "Steigbügel",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sternocleidomastoid muscle": {
+   "wikidata": "Q272830",
+   "hu": "fejbiccentő izom",
+   "de": "Musculus sternocleidomastoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sternocostal head of pectoralis major muscle": {
+   "wikidata": "Q115088076",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sternohyoid muscle": {
+   "wikidata": "Q925888",
+   "hu": "szegy-nyelvcsonti izom",
+   "de": "Musculus sternohyoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Sternothyroid muscle": {
+   "wikidata": "Q545171",
+   "hu": "szegycsont-pajzsizom",
+   "de": "Musculus sternothyroideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Straight part of cricothyroid muscle": {
+   "wikidata": "Q66536621",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Straight sinus": {
+   "wikidata": "Q7621088",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Stria medullaris thalami": {
+   "wikidata": "Q7623541",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Stria terminalis": {
+   "wikidata": "Q3122152",
+   "hu": null,
+   "de": "Stria terminalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Stylohyoid ligament": {
+   "wikidata": "Q7629687",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Stylohyoid muscle": {
+   "wikidata": "Q899783",
+   "hu": "karc-nyelvcsonti izom",
+   "de": "Musculus stylohyoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Stylomandibular ligament": {
+   "wikidata": "Q7629692",
+   "hu": "ligamentum stylomandibulare",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Stylopharyngeus muscle": {
+   "wikidata": "Q579449",
+   "hu": "musculus stylopharyngeus",
+   "de": "Musculus stylopharyngeus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subacromial bursa": {
+   "wikidata": "Q7630704",
+   "hu": null,
+   "de": "Bursa subacromialis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subclavian nerve": {
+   "wikidata": "Q1781342",
+   "hu": null,
+   "de": "Nervus subclavius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subclavius muscle": {
+   "wikidata": "Q130086",
+   "hu": "kulcscsont alatti izom",
+   "de": "Musculus subclavius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subcostal artery": {
+   "wikidata": "Q5645489",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subcutaneous acromial bursa": {
+   "wikidata": "Q66524937",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Subcutaneous bursa of lateral malleolus": {
+   "wikidata": "Q66535483",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subcutaneous bursa of medial malleolus": {
+   "wikidata": "Q66535486",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subcutaneous bursa of tuberosity of tibia": {
+   "wikidata": "Q66535480",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subcutaneous calcaneal bursa": {
+   "wikidata": "Q66535489",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subcutaneous infrapatellar bursa": {
+   "wikidata": "Q66533643",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subcutaneous prepatellar bursa": {
+   "wikidata": "Q1016959",
+   "hu": null,
+   "de": "Bursa subcutanea prepatellaris",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subcutaneous trochanteric bursa": {
+   "wikidata": "Q29073097",
+   "hu": null,
+   "de": "Bursa subcutanea trochanterica",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subdeltoid bursa": {
+   "wikidata": "Q66501885",
+   "hu": null,
+   "de": "Bursa subdeltoidea",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Submental artery": {
+   "wikidata": "Q488907",
+   "hu": null,
+   "de": "Arteria submentalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Submental vein": {
+   "wikidata": "Q66540145",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subparietal sulcus": {
+   "wikidata": "Q4391978",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subscapular artery": {
+   "wikidata": "Q707588",
+   "hu": null,
+   "de": "Arteria subscapularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subscapular vein": {
+   "wikidata": "Q66515042",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subscapularis muscle": {
+   "wikidata": "Q130050",
+   "hu": "lapocka alatti izom",
+   "de": "Musculus subscapularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of iliacus muscle": {
+   "wikidata": "Q66535465",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of infraspinatus muscle": {
+   "wikidata": "Q66525361",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of obturator internus": {
+   "wikidata": "Q66535464",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of sartorius muscle": {
+   "wikidata": "Q66535471",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of teres major muscle": {
+   "wikidata": "Q66526378",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of tibialis anterior": {
+   "wikidata": "Q66535477",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of trapezius muscle": {
+   "wikidata": "Q66526398",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous bursa of triceps brachii muscle": {
+   "wikidata": "Q66527026",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous calcaneal bursa": {
+   "wikidata": "Q66535527",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Subtendinous prepatellar bursa": {
+   "wikidata": "Q66535495",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial branch of medial plantar artery": {
+   "wikidata": "Q66533842",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial branch of radial nerve": {
+   "wikidata": "Q7643300",
+   "hu": null,
+   "de": "Ramus superficialis nervi radialis",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial branch of transverse cervical artery": {
+   "wikidata": "Q2006862",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Superficial branch of ulnar nerve": {
+   "wikidata": "Q7643302",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial dorsal veins of penis": {
+   "wikidata": "Q2759368",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial epigastric artery": {
+   "wikidata": "Q707145",
+   "hu": null,
+   "de": "Arteria epigastrica superficialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial epigastric vein": {
+   "wikidata": "Q7643313",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial external pudendal artery": {
+   "wikidata": "Q430758",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial fibular nerve": {
+   "wikidata": "Q3088602",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial head of flexor pollicis brevis": {
+   "wikidata": "Q66536302",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial head of pronator teres": {
+   "wikidata": "Q66527690",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial investing cervical fascia": {
+   "wikidata": "Q6060736",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superficial layer of temporal fascia": {
+   "wikidata": "Q66574320",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial palmar arch": {
+   "wikidata": "Q7643328",
+   "hu": null,
+   "de": "Arcus palmaris superficialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial part of masseter": {
+   "wikidata": "Q66538430",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial part of tibial collateral ligament": {
+   "wikidata": "Q119979111",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superficial temporal artery": {
+   "wikidata": "Q494694",
+   "hu": null,
+   "de": "Arteria temporalis superficialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial temporal veins": {
+   "wikidata": "Q5947899",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superficial transverse metacarpal ligament": {
+   "wikidata": "Q7643334",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial transverse metatarsal ligament": {
+   "wikidata": "Q66534772",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superficial venous palmar arch": {
+   "wikidata": "Q629692",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior anorectal artery": {
+   "wikidata": "Q384950",
+   "hu": null,
+   "de": "Arteria rectalis superior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior basal vein of left lung": {
+   "wikidata": "Q131340805",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior basal vein of right lung": {
+   "wikidata": "Q66507619",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior bursa of biceps femoris muscle": {
+   "wikidata": "Q66535624",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior cerebellar artery": {
+   "wikidata": "Q707592",
+   "hu": null,
+   "de": "Arteria superior cerebelli",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior cerebellar peduncle": {
+   "wikidata": "Q7643594",
+   "hu": "felső kisagykocsány",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior colliculus": {
+   "wikidata": "Q1109417",
+   "hu": null,
+   "de": "Colliculi superiores",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior epigastric artery": {
+   "wikidata": "Q707152",
+   "hu": null,
+   "de": "Arteria epigastrica superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior extensor retinaculum of ankle": {
+   "wikidata": "Q17044312",
+   "hu": null,
+   "de": "Retinaculum extensorum superius",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior fibular retinaculum": {
+   "wikidata": "Q66540451",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior frontal gyrus": {
+   "wikidata": "Q3064113",
+   "hu": null,
+   "de": "Gyrus frontalis superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior frontal sulcus": {
+   "wikidata": "Q3483908",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior gemellus muscle": {
+   "wikidata": "Q1732695",
+   "hu": null,
+   "de": "Musculus gemellus superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior glenohumeral ligament": {
+   "wikidata": "Q66525314",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior gluteal artery": {
+   "wikidata": "Q707218",
+   "hu": null,
+   "de": "Arteria glutaea superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior gluteal nerve": {
+   "wikidata": "Q1761014",
+   "hu": null,
+   "de": "Nervus gluteus superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior gluteal veins": {
+   "wikidata": "Q432126",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior head of lateral pterygoid muscle": {
+   "wikidata": "Q66538445",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior labial artery": {
+   "wikidata": "Q484819",
+   "hu": null,
+   "de": "Arteria labialis superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior labial vein": {
+   "wikidata": "Q7643634",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior lateral brachial cutaneous nerve": {
+   "wikidata": "Q7643637",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior lateral genicular artery": {
+   "wikidata": "Q7643641",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior lingular artery of left lung": {
+   "wikidata": "Q66504102",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior lingular vein of left lung": {
+   "wikidata": "Q66504235",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior lobar artery of right lung": {
+   "wikidata": "Q66563800",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior medial genicular artery": {
+   "wikidata": "Q2835952",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior mesenteric artery": {
+   "wikidata": "Q367570",
+   "hu": "arteria mesenterica superior",
+   "de": "Arteria mesenterica superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior mesenteric vein": {
+   "wikidata": "Q751322",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior oblique muscle": {
+   "wikidata": "Q913366",
+   "hu": "musculus obliquus superior bulbi",
+   "de": "Musculus obliquus superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior ophthalmic vein": {
+   "wikidata": "Q4117816",
+   "hu": null,
+   "de": "Vena ophthalmica superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior parietal lobule": {
+   "wikidata": "Q1332793",
+   "hu": null,
+   "de": "Lobulus parietalis superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior petrosal sinus": {
+   "wikidata": "Q7643664",
+   "hu": null,
+   "de": "Sinus petrosus superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior pharyngeal constrictor": {
+   "wikidata": "Q537486",
+   "hu": "felső garat-összeszorító izom",
+   "de": "Musculus constrictor pharyngis superior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior phrenic arteries": {
+   "wikidata": "Q8205488",
+   "hu": null,
+   "de": "Arteria phrenica superior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior pubic ligament": {
+   "wikidata": "Q66513459",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior rectus muscle": {
+   "wikidata": "Q1090548",
+   "hu": "musculus rectus superior",
+   "de": "Musculus rectus superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior sagittal sinus": {
+   "wikidata": "Q4115976",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior salivatory nucleus": {
+   "wikidata": "Q2004222",
+   "hu": null,
+   "de": "Nucleus salivatorius superior",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior segmental artery of left lung": {
+   "wikidata": "Q66504105",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior segmental artery of right lung": {
+   "wikidata": "Q66504090",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Superior semilunar lobule": {
+   "wikidata": "Q66570071",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Superior subscapular nerve": {
+   "wikidata": "Q623377",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior temporal sulcus": {
+   "wikidata": "Q732362",
+   "hu": null,
+   "de": "Sulcus temporalis superior",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior thyroid vein": {
+   "wikidata": "Q7643681",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior transverse scapular ligament": {
+   "wikidata": "Q3330753",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior trunk of brachial plexus": {
+   "wikidata": "Q7899054",
+   "hu": null,
+   "de": null,
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior ulnar collateral artery": {
+   "wikidata": "Q707124",
+   "hu": null,
+   "de": "Arteria collateralis ulnaris superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Superior vein of left lung": {
+   "wikidata": "Q131340776",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior vein of right lung": {
+   "wikidata": "Q66508106",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Superior vena cava": {
+   "wikidata": "Q736995",
+   "hu": "felső fő testvéna",
+   "de": "Vena cava superior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Supinator": {
+   "wikidata": "Q524064",
+   "hu": "hanyintó alkari izom",
+   "de": "Musculus supinator",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Supra-orbital artery": {
+   "wikidata": "Q707595",
+   "hu": null,
+   "de": "Arteria supraorbitalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Supramarginal gyrus": {
+   "wikidata": "Q1528202",
+   "hu": null,
+   "de": "Gyrus supramarginalis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Suprapatellar bursa": {
+   "wikidata": "Q66507089",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Suprascapular artery": {
+   "wikidata": "Q493426",
+   "hu": null,
+   "de": "Arteria suprascapularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Suprascapular nerve": {
+   "wikidata": "Q559526",
+   "hu": null,
+   "de": "Nervus suprascapularis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Suprascapular vein": {
+   "wikidata": "Q7644751",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Supraspinatus muscle": {
+   "wikidata": "Q74959",
+   "hu": "tövis feletti izom",
+   "de": "Musculus supraspinatus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Supraspinous ligament": {
+   "wikidata": "Q1471133",
+   "hu": null,
+   "de": "Ligamentum supraspinale",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Supratrochlear artery": {
+   "wikidata": "Q4381076",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Supreme intercostal artery": {
+   "wikidata": "Q484833",
+   "hu": null,
+   "de": "Arteria intercostalis suprema",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sural communicating branch of common fibular nerve": {
+   "wikidata": "Q7645360",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sural nerve": {
+   "wikidata": "Q6135922",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Suspensory ligament of eyeball": {
+   "wikidata": "Q1867659",
+   "hu": null,
+   "de": "Lockwood-Ligament",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Sympathetic trunk": {
+   "wikidata": "Q1545875",
+   "hu": null,
+   "de": "Grenzstrang",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Synovial sheaths of digits of hand": {
+   "wikidata": "Q66569328",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Talocalcaneal interosseous ligament": {
+   "wikidata": "Q610866",
+   "hu": null,
+   "de": "Ligamentum talocalcaneum interosseum",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Talonavicular ligament": {
+   "wikidata": "Q5298809",
+   "hu": null,
+   "de": "Ligamentum talonaviculare",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Talus": {
+   "wikidata": "Q13100",
+   "hu": "bokacsont",
+   "de": "Sprungbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tectospinal tract": {
+   "wikidata": "Q7692864",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Temporal bone": {
+   "wikidata": "Q16313",
+   "hu": "halántékcsont",
+   "de": "Schläfenbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Temporal branches of middle cerebral artery": {
+   "wikidata": "Q66539580",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Temporal plane": {
+   "wikidata": "Q1568920",
+   "hu": null,
+   "de": "Planum temporale",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Temporal pole": {
+   "wikidata": "Q16508661",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Temporalis muscle": {
+   "wikidata": "Q599406",
+   "hu": "halántékizom",
+   "de": "Musculus temporalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Temporoparietalis muscle": {
+   "wikidata": "Q1033231",
+   "hu": "halántékcsonti-falcsonti izom",
+   "de": "Musculus temporoparietalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Tendinous arch of levator ani": {
+   "wikidata": "Q66536527",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tendon of extensor digitorum longus": {
+   "wikidata": "Q66536959",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Tendon sheath - abd. pollicis longus - ext. pollicis brevis": {
+   "wikidata": "Q66530265",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Tendon sheath of extensor digitorum longus": {
+   "wikidata": "Q66535549",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tendon sheath of extensors carpi radialis": {
+   "wikidata": "Q66529275",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Tendon sheath of flexor digitorum longus": {
+   "wikidata": "Q66535553",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Tendon sheath of flexor hallucis longus": {
+   "wikidata": "Q66535559",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Tendon sheath of tibialis posterior muscle": {
+   "wikidata": "Q66535556",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tensor fasciae latae": {
+   "wikidata": "Q1429453",
+   "hu": null,
+   "de": "Musculus tensor fasciae latae",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tenth rib": {
+   "wikidata": "Q7700897",
+   "hu": null,
+   "de": "zehnte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Tentorium cerebelli": {
+   "wikidata": "Q1089501",
+   "hu": "kisagysátor",
+   "de": "Tentorium cerebelli",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Teres major muscle": {
+   "wikidata": "Q56658",
+   "hu": "nagy görgetegizom",
+   "de": "Musculus teres major",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Teres minor muscle": {
+   "wikidata": "Q74963",
+   "hu": "kis görgetegizom",
+   "de": "Musculus teres minor",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Thalamus": {
+   "wikidata": "Q184215",
+   "hu": "talamusz",
+   "de": "Thalamus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Third metacarpal bone": {
+   "wikidata": "Q836581",
+   "hu": "III. kézközépcsont",
+   "de": "dritter Mittelhandknochen",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Third metatarsal bone": {
+   "wikidata": "Q7785071",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Third rib": {
+   "wikidata": "Q51077755",
+   "hu": null,
+   "de": "dritte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Third ventricle": {
+   "wikidata": "Q662322",
+   "hu": "harmadik agykamra",
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Thoracic aorta": {
+   "wikidata": "Q615993",
+   "hu": null,
+   "de": "Aorta thoracica",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Thoraco-acromial artery": {
+   "wikidata": "Q493410",
+   "hu": null,
+   "de": "Arteria thoracoacromialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Thoracodorsal artery": {
+   "wikidata": "Q707638",
+   "hu": null,
+   "de": "Arteria thoracodorsalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Thoracodorsal nerve": {
+   "wikidata": "Q143633",
+   "hu": null,
+   "de": "Nervus thoracodorsalis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Thoracodorsal vein": {
+   "wikidata": "Q66569042",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Thyro-epiglottic part of thyro-arytenoid muscle": {
+   "wikidata": "Q612033",
+   "hu": "pajzs-gégefedőizom",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Thyrocervical trunk": {
+   "wikidata": "Q2456456",
+   "hu": null,
+   "de": "Truncus thyrocervicalis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Thyrohyoid muscle": {
+   "wikidata": "Q1072039",
+   "hu": "pajzs-nyelvcsonti izom",
+   "de": "Musculus thyrohyoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Thyroid cartilage": {
+   "wikidata": "Q171093",
+   "hu": "pajzsporc",
+   "de": "Schildknorpel",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tibia": {
+   "wikidata": "Q178366",
+   "hu": "sípcsont",
+   "de": "Schienbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Tibial nerve": {
+   "wikidata": "Q1978198",
+   "hu": null,
+   "de": "Nervus tibialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Tibialis anterior muscle": {
+   "wikidata": "Q975054",
+   "hu": "musculus tibialis anterior",
+   "de": "Musculus tibialis anterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Tibialis posterior muscle": {
+   "wikidata": "Q1551145",
+   "hu": null,
+   "de": "Musculus tibialis posterior",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Tibiocalcaneal ligament": {
+   "wikidata": "Q66533952",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tibionavicular ligament": {
+   "wikidata": "Q66533951",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Tonsil of cerebellum": {
+   "wikidata": "Q5064080",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Transversalis fascia": {
+   "wikidata": "Q1397355",
+   "hu": null,
+   "de": "Fascia transversalis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse acetabular ligament": {
+   "wikidata": "Q7835420",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse arytenoid muscle": {
+   "wikidata": "Q717887",
+   "hu": "musculus arytenoideus",
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse cervical artery": {
+   "wikidata": "Q591706",
+   "hu": null,
+   "de": "Arteria transversa cervicis",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse facial artery": {
+   "wikidata": "Q486752",
+   "hu": null,
+   "de": "Arteria transversa faciei",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Transverse head of adductor hallucis": {
+   "wikidata": "Q66536228",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse head of adductor pollicis": {
+   "wikidata": "Q66536312",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse humeral ligament": {
+   "wikidata": "Q2788072",
+   "hu": null,
+   "de": "Ligamentum transversum humeri",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse intermuscular septum of leg": {
+   "wikidata": "Q7835432",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Transverse ligament of knee": {
+   "wikidata": "Q7835438",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse occipital sulcus": {
+   "wikidata": "Q7835445",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse part of iliofemoral ligament": {
+   "wikidata": "Q66531870",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse part of trapezius muscle": {
+   "wikidata": "Q66523041",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transverse sinus": {
+   "wikidata": "Q5860395",
+   "hu": "sinus transversus",
+   "de": "Sinus transversus",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Transverse temporal gyri": {
+   "wikidata": "Q1558507",
+   "hu": null,
+   "de": "Gyri temporales transversi",
+   "via": [
+    "ta2"
+   ]
+  },
+  "Transverse tibiofibular ligament": {
+   "wikidata": "Q119490768",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Transversus abdominis muscle": {
+   "wikidata": "Q1427665",
+   "hu": null,
+   "de": "Musculus transversus abdominis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Transversus thoracis muscle": {
+   "wikidata": "Q936699",
+   "hu": "musculus transversus thoracis",
+   "de": "Musculus transversus thoracis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Trapeziotrapezoidal interosseous ligament": {
+   "wikidata": "Q114166210",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Trapezium bone": {
+   "wikidata": "Q265617",
+   "hu": "trapézcsont",
+   "de": "Großes Vieleckbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Trapezoid bone": {
+   "wikidata": "Q847084",
+   "hu": "kis trapézcsont",
+   "de": "kleines Vieleckbein",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Trapezoid ligament": {
+   "wikidata": "Q1877663",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Trapezoideocapitate interosseous ligament": {
+   "wikidata": "Q114166953",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Triangular part of inferior frontal gyrus": {
+   "wikidata": "Q7840143",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Triceps brachii muscle": {
+   "wikidata": "Q83379",
+   "hu": "háromfejű karizom",
+   "de": "Musculus triceps brachii",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Triceps surae muscle": {
+   "wikidata": "Q431282",
+   "hu": null,
+   "de": "Musculus triceps surae",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Triquetrocapitate ligament": {
+   "wikidata": "Q114137082",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Triquetrohamate ligament": {
+   "wikidata": "Q114154385",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Triquetrum bone": {
+   "wikidata": "Q278417",
+   "hu": "háromszögletű csont",
+   "de": "Dreiecksbein",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Triradiate cartilage": {
+   "wikidata": "Q18354585",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Trochanteric bursa of gluteus maximus muscle": {
+   "wikidata": "Q29072888",
+   "hu": null,
+   "de": "Bursa trochanterica musculi glutei maximi",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Trochanteric bursa of gluteus medius muscle": {
+   "wikidata": "Q29072956",
+   "hu": null,
+   "de": "Bursa trochanterica musculi glutei medii",
+   "via": [
+    "english"
+   ]
+  },
+  "Trochanteric bursa of gluteus minimus muscle": {
+   "wikidata": "Q29072974",
+   "hu": null,
+   "de": "Bursa trochanterica musculi glutei minimi",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Trochlea of superior oblique muscle": {
+   "wikidata": "Q653284",
+   "hu": "Trochlea musculi obliqui superioris bulbi",
+   "de": "Rollknorpel",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Twelfth rib": {
+   "wikidata": "Q7857568",
+   "hu": null,
+   "de": "zwölfte Rippe",
+   "via": [
+    "english"
+   ]
+  },
+  "Tympanic membrane": {
+   "wikidata": "Q173801",
+   "hu": "dobhártya",
+   "de": "Trommelfell",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulna": {
+   "wikidata": "Q199507",
+   "hu": "singcsont",
+   "de": "Ulna",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ulnar artery": {
+   "wikidata": "Q599817",
+   "hu": "arteria ulnaris",
+   "de": "Arteria ulnaris",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ulnar collateral ligament": {
+   "wikidata": "Q7879707",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnar collateral ligament of wrist joint": {
+   "wikidata": "Q258145",
+   "hu": "ligamentum collaterale carpi ulnare",
+   "de": "seitliches Ellenband",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnar head of extensor carpi ulnaris": {
+   "wikidata": "Q66574825",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnar head of flexor carpi ulnaris": {
+   "wikidata": "Q66527733",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnar nerve": {
+   "wikidata": "Q254580",
+   "hu": null,
+   "de": "Ellennerv",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnar recurrent artery": {
+   "wikidata": "Q707522",
+   "hu": null,
+   "de": "Arteria recurrens ulnaris",
+   "via": [
+    "english"
+   ]
+  },
+  "Ulnar veins": {
+   "wikidata": "Q2310633",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnocapitate ligament": {
+   "wikidata": "Q114051302",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnolunate ligament": {
+   "wikidata": "Q114050744",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnopisiform ligament": {
+   "wikidata": "Q114052711",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Ulnotriquetral ligament": {
+   "wikidata": "Q114052542",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Uvula of vermis": {
+   "wikidata": "Q7903729",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Vastus intermedius muscle": {
+   "wikidata": "Q1812578",
+   "hu": null,
+   "de": "Musculus vastus intermedius",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Vastus lateralis muscle": {
+   "wikidata": "Q975459",
+   "hu": null,
+   "de": "Musculus vastus lateralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Vastus medialis muscle": {
+   "wikidata": "Q1590935",
+   "hu": null,
+   "de": "Musculus vastus medialis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Ventral parts of lateral intertransversarii lumborum muscles": {
+   "wikidata": "Q66573771",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "Vertebra C6": {
+   "wikidata": "Q5065364",
+   "hu": null,
+   "de": null,
+   "via": [
+    "ta2"
+   ]
+  },
+  "Vertebral artery": {
+   "wikidata": "Q516546",
+   "hu": null,
+   "de": "Arteria vertebralis",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Vertebral vein": {
+   "wikidata": "Q5306004",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Vitreous body": {
+   "wikidata": "Q326710",
+   "hu": "üvegtest",
+   "de": "Glaskörper",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Vomer": {
+   "wikidata": "Q193527",
+   "hu": "ekecsont",
+   "de": "Pflugscharbein",
+   "via": [
+    "english",
+    "ta2"
+   ]
+  },
+  "White matter of spinal cord": {
+   "wikidata": "Q66590465",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "White matter of telencephalon": {
+   "wikidata": "Q66590450",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Wing of central lobule": {
+   "wikidata": "Q66574432",
+   "hu": null,
+   "de": null,
+   "via": [
+    "english"
+   ]
+  },
+  "Xiphoid process": {
+   "wikidata": "Q16359",
+   "hu": null,
+   "de": "Processus xiphoideus",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Zygomatic bone": {
+   "wikidata": "Q186102",
+   "hu": null,
+   "de": "Jochbein",
+   "via": [
+    "latin",
+    "ta2"
+   ]
+  },
+  "Zygomaticus major muscle": {
+   "wikidata": "Q612325",
+   "hu": "nagy járomcsonti izom",
+   "de": "zygomaticus major",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  },
+  "Zygomaticus minor muscle": {
+   "wikidata": "Q1073843",
+   "hu": "kis járomcsonti izom",
+   "de": "zygomaticus minor",
+   "via": [
+    "english",
+    "latin",
+    "ta2"
+   ]
+  }
+ }
+}

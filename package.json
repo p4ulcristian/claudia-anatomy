@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "compress": "node tools/compress.mjs",
-    "index": "node tools/index.mjs"
+    "index": "node tools/index.mjs",
+    "names": "node tools/names.mjs"
   },
   "devDependencies": {
     "@gltf-transform/core": "4.5.1",
